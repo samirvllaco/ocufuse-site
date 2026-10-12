@@ -1,6 +1,6 @@
 # Ocufuse
 
-> Ocufuse is an eye health journal and eye games app on the web, with an iPhone app launching October 23, 2026. It offers three free browser games for screen breaks on ocufuse.com (Shade Hunt, Dot Chase, Edge Spot), visual games and guided eye exercises in the app (including companions for exercises clinicians give for lazy eye, strabismus and convergence insufficiency), comfort routines for eye strain, a daily log, optional eye photos and a Doctor Brief to share with an eye care professional. Ocufuse is not a medical device and does not diagnose or treat any condition. It is free to start; Ocufuse Plus (every game, full history, all guides and the Doctor Brief) is coming soon; during early access everything in the web app is free. Web app: https://app.ocufuse.com
+> Ocufuse is an eye health journal and eye games app on the web, with an iPhone app launching October 23, 2026. It offers three free browser games for screen breaks on ocufuse.com (Shade Hunt, Dot Chase, Edge Spot; no download, free with an email address, no account needed), visual games and guided eye exercises in the app (including companions for exercises clinicians give for lazy eye, strabismus and convergence insufficiency), comfort routines for eye strain, a daily log, optional eye photos and a Doctor Brief to share with an eye care professional. Ocufuse is not a medical device and does not diagnose or treat any condition. It is free to start; Ocufuse Plus (every game, full history, all guides and the Doctor Brief) is coming soon; during early access everything in the web app is free. Web app: https://app.ocufuse.com
 
 ## Product
 - [Ocufuse: Eye Log, Eye Exercises and Free Eye Games](https://ocufuse.com/): Free eye games for screen breaks, guided eye exercises for lazy eye and strabismus, and a daily eye log with a Doctor Brief. Free to start in your browser.
@@ -10,8 +10,8 @@
 - [Ocufuse for iPhone: Eye Log and Eye Games App](https://ocufuse.com/app): Ocufuse for iPhone: a daily eye log with a reminder, eye games for short breaks, and sync with the web app. Launching October 23, 2026. Join the waiting list.
 
 ## Free eye games
-- [Free Eye Games You Can Play in Your Browser](https://ocufuse.com/games): Three free eye games for screen breaks: Shade Hunt, Dot Chase and Edge Spot. No download, no account, about a minute or two each, on phone or computer.
-- [Shade Hunt: Find the Different Color Game](https://ocufuse.com/games/shade-hunt): Find the tile that is a slightly different color. A free 60-second browser game for screen breaks: the grid grows as the shades get closer. No account.
+- [Free Eye Games You Can Play in Your Browser](https://ocufuse.com/games): Three free eye games for screen breaks: Shade Hunt, Dot Chase and Edge Spot. No download, free with your email, a minute or two each, on phone or computer.
+- [Shade Hunt: Find the Different Color Game](https://ocufuse.com/games/shade-hunt): Find the tile that is a slightly different color. A free 60-second browser game for screen breaks: the grid grows as the shades get closer. Free with email.
 - [Dot Chase: Free Eye Tracking Game](https://ocufuse.com/games/dot-chase): Follow the moving dot with your eyes and catch it when it changes colour. A free two-minute eye tracking game for screen breaks, on phone or computer.
 - [Edge Spot: Peripheral Vision Game](https://ocufuse.com/games/edge-spot): Keep your eyes on the centre cross and spot the diamond that flashes at the edges. A free peripheral vision game for screen breaks, with six levels.
 
