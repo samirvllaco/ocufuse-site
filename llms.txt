@@ -40,6 +40,8 @@
 - [Support Ocufuse: Help, Feedback and Ways to Help](https://ocufuse.com/support): Help with the Ocufuse web app and iPhone app, ways to support an independent team (Plus, sharing, feedback) and a contact form. We reply within 2 working days.
 - [Privacy Policy: How We Protect Your Eye Data](https://ocufuse.com/privacy): How Ocufuse collects, uses, stores and deletes your personal data, including eye photos and health-related journal entries.
 - [Terms of Use](https://ocufuse.com/terms): The terms that apply when you use Ocufuse, including the eye fitness web app, the iPhone app and the ocufuse.com website, and what you agree to.
+- [Consumer Health Data Privacy Policy](https://ocufuse.com/consumer-health-data): How Ocufuse handles consumer health data under the Washington My Health My Data Act, Nevada law and similar US state laws, and how to use your rights.
+- [Accessibility Statement](https://ocufuse.com/accessibility): How Ocufuse supports VoiceOver, larger text, reduced motion and keyboard use on iPhone and ocufuse.com, the known limitations, and how to tell us about a barrier.
 - [Delete Your Ocufuse Account and Data](https://ocufuse.com/delete-account): How to delete your Ocufuse account, including all eye photos and journal entries, from the web app or iPhone app, and how long deletion takes.
 - [Eye Exercises and Vision Therapy FAQ](https://ocufuse.com/faq): 44 short, sourced answers about eye exercises, vision therapy, the 20-20-20 rule, amblyopia, strabismus and how to photograph your eyes for your doctor.
 - [Contact Ocufuse: Support, Billing and Press](https://ocufuse.com/contact): Contact the Ocufuse team about the app, Ocufuse Plus billing, feedback or press. Send a message or email hello@ocufuse.com. We reply within 2 working days.
