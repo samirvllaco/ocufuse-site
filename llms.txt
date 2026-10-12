@@ -1,12 +1,12 @@
 # Ocufuse
 
-> Ocufuse is an eye fitness and eye health journal app for web and iPhone. It offers eye training games, guided eye exercises (including companions for exercises clinicians give for lazy eye, strabismus and convergence insufficiency), comfort routines for eye strain, a practice log, symptom notes, optional eye photos and a Doctor Brief to share with an eye care professional. Ocufuse is not a medical device and does not diagnose or treat any condition. It is free during early access. Web app: https://app.ocufuse.com
+> Ocufuse is an eye fitness and eye health journal web app, with an iPhone app launching October 23, 2026. It offers eye training games, guided eye exercises (including companions for exercises clinicians give for lazy eye, strabismus and convergence insufficiency), comfort routines for eye strain, a practice log, symptom notes, optional eye photos and a Doctor Brief to share with an eye care professional. Ocufuse is not a medical device and does not diagnose or treat any condition. It is free during early access. Web app: https://app.ocufuse.com
 
 ## Product
-- [Ocufuse: eye exercises, eye training games and eye health journal](https://ocufuse.com/): Eye training games and guided eye exercises for lazy eye, strabismus, amblyopia and eye strain, with a practice log and a Doctor Brief for your eye doctor. Free on web and iPhone.
+- [Ocufuse: eye exercises, eye training games and eye health journal](https://ocufuse.com/): Eye training games and guided eye exercises for lazy eye, strabismus, amblyopia and eye strain, with a practice log and a Doctor Brief for your eye doctor. Free in your browser, iPhone app coming October 23.
 - [For clinicians: reading an Ocufuse Doctor Brief](https://ocufuse.com/clinicians): For ophthalmologists, optometrists, orthoptists and GPs: what an Ocufuse Doctor Brief contains, how patients make it, and its limits.
 - [Safety and Intended Use](https://ocufuse.com/safety): What Ocufuse is for, what it is not for, and the eye warning signs that need a doctor straight away.
-- [Pricing](https://ocufuse.com/pricing): Ocufuse is free during early access: eye training games, guided eye exercises, a practice log and Doctor Brief on web and iPhone. No card needed to sign up.
+- [Pricing](https://ocufuse.com/pricing): Ocufuse is free during early access: eye training games, guided eye exercises, a practice log and Doctor Brief in the web app. No card needed to sign up.
 
 ## Eye exercises
 - [Eye Exercises: What the Research Says and How to Track Them](https://ocufuse.com/eye-exercises/): Do eye exercises improve vision? What eye exercises can and can't do, techniques clinicians prescribe, the CITT and Cochrane evidence, and how to log prescribed exercises.
