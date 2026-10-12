@@ -5,14 +5,14 @@
     <lastmod>2026-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-practice-light.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-practice-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-games-light.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-games-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-today-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-today-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-practice-light.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-brief-light.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-brief-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-today-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-today-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-progress-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -111,6 +111,8 @@
     <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -118,6 +120,8 @@
     <lastmod>2026-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-practice-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-practice-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-games.png</image:loc></image:image>
   </url>
   <url>
@@ -146,14 +150,22 @@
     <lastmod>2026-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <image:image><image:loc>https://ocufuse.com/shot-activities-light.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-activities-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-practice-light.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-games-light.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-games-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-today-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-today-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-game-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-game-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-brief-light.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-brief-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-learn-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-learn-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-progress-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-progress-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-care-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-care-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-care-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-care-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
