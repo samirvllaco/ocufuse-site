@@ -1,6 +1,7 @@
 /* TEAM */
 Ocufuse team
 Contact: hello@ocufuse.com
+Instagram: https://www.instagram.com/ocufuse/
 Site: https://ocufuse.com
 
 /* SITE */
