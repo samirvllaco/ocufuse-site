@@ -3,7 +3,7 @@
 > Ocufuse is an eye health journal and eye games app on the web, with an iPhone app launching October 23, 2026. It offers three free browser games for screen breaks on ocufuse.com (Shade Hunt, Dot Chase, Edge Spot; no download, free with an email address, no account needed), visual games and guided eye exercises in the app (including companions for exercises clinicians give for lazy eye, strabismus and convergence insufficiency), comfort routines for eye strain, a daily log, optional eye photos and a Doctor Brief to share with an eye care professional. Ocufuse is not a medical device and does not diagnose or treat any condition. It is free to start; Ocufuse Plus costs $7.99 a month (3-day free trial), $49.99 a year (7-day free trial) or $119.99 once for Lifetime. Web app: https://app.ocufuse.com
 
 ## Product
-- [Ocufuse: Eye Log, Eye Exercises and Free Eye Games](https://ocufuse.com/): Free eye games for screen breaks, guided eye exercises for lazy eye and strabismus, and a daily eye log with a Doctor Brief. Free to start in your browser.
+- [Ocufuse: Eye Log, Eye Exercises and Free Eye Games](https://ocufuse.com/): Free eye games for screen breaks, a daily eye log and a Doctor Brief to share with your eye doctor. Free to start in your browser.
 - [Ocufuse Doctor Brief: A Guide for Eye Care Clinicians](https://ocufuse.com/clinicians): For ophthalmologists, optometrists, orthoptists and GPs: what an Ocufuse Doctor Brief contains, how patients make it, and its limits.
 - [Safety, Intended Use and Eye Warning Signs](https://ocufuse.com/safety): What Ocufuse is for and what it is not for, plus the eye warning signs that need a doctor straight away, such as sudden vision loss or double vision.
 - [Ocufuse Plus: Plans, Pricing and Free Trial](https://ocufuse.com/pricing): Ocufuse Plus unlocks every eye game, your full history, all 12 guides and the Doctor Brief. $7.99 a month, $49.99 a year with a 7-day free trial, or $119.99 once.
@@ -69,7 +69,7 @@
 ## Help and policies
 - [Support Ocufuse: Help, Feedback and Ways to Help](https://ocufuse.com/support): Help with the Ocufuse web app and iPhone app, ways to support an independent team (Plus, sharing, feedback) and a contact form. We reply within 2 working days.
 - [Privacy Policy: How We Protect Your Eye Data](https://ocufuse.com/privacy): How Ocufuse collects, uses, stores and deletes your personal data, including eye photos and health-related journal entries.
-- [Terms of Use](https://ocufuse.com/terms): The terms that apply when you use Ocufuse, including the eye fitness web app, the iPhone app and the ocufuse.com website, and what you agree to.
+- [Terms of Use](https://ocufuse.com/terms): The terms that apply when you use Ocufuse, including the eye health journal web app, the iPhone app and the ocufuse.com website, and what you agree to.
 - [Consumer Health Data Privacy Policy](https://ocufuse.com/consumer-health-data): How Ocufuse handles consumer health data under the Washington My Health My Data Act, Nevada law and similar US state laws, and how to use your rights.
 - [Accessibility Statement](https://ocufuse.com/accessibility): How Ocufuse supports VoiceOver, larger text, reduced motion and keyboard use on iPhone and ocufuse.com, the known limitations, and how to tell us about a barrier.
 - [Delete Your Ocufuse Account and Data](https://ocufuse.com/delete-account): How to delete your Ocufuse account, including all eye photos and journal entries, from the web app or iPhone app, and how long deletion takes.
