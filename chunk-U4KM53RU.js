@@ -1,0 +1,1 @@
+var a=["January","February","March","April","May","June","July","August","September","October","November","December"],m=e=>{let[r,t,u]=e.split("-").map(Number);return`${u} ${a[t-1]} ${r}`};export{m as a};
