@@ -363,6 +363,32 @@
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
+    <loc>https://ocufuse.com/sq/lojera-per-syte</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-practice-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-practice-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-games.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/sq/cmimet</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-learn-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-learn-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/sq/pyetje</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://ocufuse.com/tr/goz-oyunlari</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
