@@ -166,8 +166,6 @@
     <lastmod>2026-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-practice-light.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-practice-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-games.png</image:loc></image:image>
   </url>
   <url>
@@ -548,8 +546,6 @@
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-practice-light.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-practice-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-games.png</image:loc></image:image>
   </url>
   <url>
@@ -570,12 +566,17 @@
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
+    <loc>https://ocufuse.com/sq/udhezues</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://ocufuse.com/tr/goz-oyunlari</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-practice-light.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-practice-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-games.png</image:loc></image:image>
   </url>
   <url>
@@ -596,12 +597,17 @@
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
+    <loc>https://ocufuse.com/tr/rehberler</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://ocufuse.com/sr/igre-za-oci</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-practice-light.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-practice-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-games.png</image:loc></image:image>
   </url>
   <url>
@@ -622,12 +628,17 @@
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
+    <loc>https://ocufuse.com/sr/vodici</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://ocufuse.com/es/juegos-para-los-ojos</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-practice-light.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-practice-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-games.png</image:loc></image:image>
   </url>
   <url>
@@ -648,12 +659,17 @@
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
+    <loc>https://ocufuse.com/es/guias</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://ocufuse.com/it/giochi-per-gli-occhi</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-practice-light.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-practice-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-games.png</image:loc></image:image>
   </url>
   <url>
@@ -668,6 +684,13 @@
   </url>
   <url>
     <loc>https://ocufuse.com/it/domande-frequenti</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/it/guide</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
