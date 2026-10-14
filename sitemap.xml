@@ -617,7 +617,7 @@
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
-    <loc>https://ocufuse.com/pricing</loc>
+    <loc>https://ocufuse.com/plus</loc>
     <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
@@ -1552,7 +1552,7 @@
     <image:image><image:loc>https://ocufuse.com/og-games.png</image:loc></image:image>
   </url>
   <url>
-    <loc>https://ocufuse.com/sq/cmimet</loc>
+    <loc>https://ocufuse.com/sq/plus</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -1789,7 +1789,7 @@
     <image:image><image:loc>https://ocufuse.com/og-games.png</image:loc></image:image>
   </url>
   <url>
-    <loc>https://ocufuse.com/tr/fiyatlar</loc>
+    <loc>https://ocufuse.com/tr/plus</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -2026,7 +2026,7 @@
     <image:image><image:loc>https://ocufuse.com/og-games.png</image:loc></image:image>
   </url>
   <url>
-    <loc>https://ocufuse.com/sr/cene</loc>
+    <loc>https://ocufuse.com/sr/plus</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -2263,7 +2263,7 @@
     <image:image><image:loc>https://ocufuse.com/og-games.png</image:loc></image:image>
   </url>
   <url>
-    <loc>https://ocufuse.com/es/precios</loc>
+    <loc>https://ocufuse.com/es/plus</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -2500,7 +2500,7 @@
     <image:image><image:loc>https://ocufuse.com/og-games.png</image:loc></image:image>
   </url>
   <url>
-    <loc>https://ocufuse.com/it/prezzi</loc>
+    <loc>https://ocufuse.com/it/plus</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
