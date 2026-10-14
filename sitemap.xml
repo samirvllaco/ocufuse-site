@@ -494,9 +494,6 @@
     <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-    <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-learn-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-learn-light.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
@@ -1278,9 +1275,6 @@
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
-    <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-learn-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-learn-light.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
@@ -1331,6 +1325,132 @@
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
+    <loc>https://ocufuse.com/sq/mjete</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/sq/mjete/kohematesi-i-pushimeve</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/sq/mjete/ditari-i-fotove-te-syve</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/sq/ditari-i-syve</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/sq/mireqenia-e-syve</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/sq/meso/koha-ne-ekran-dhe-rehatia-e-syve</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/sq/kerkime</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://ocufuse.com/tr/goz-oyunlari</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
@@ -1353,9 +1473,6 @@
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
-    <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-learn-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-learn-light.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
@@ -1406,6 +1523,132 @@
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
+    <loc>https://ocufuse.com/tr/araclar</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/tr/araclar/ekran-molasi-zamanlayicisi</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/tr/araclar/goz-fotografi-gunlugu</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/tr/goz-takip-gunlugu</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/tr/goz-sagligi</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/tr/ogren/ekran-suresi-ve-goz-konforu</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/tr/arastirma</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://ocufuse.com/sr/igre-za-oci</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
@@ -1428,9 +1671,6 @@
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
-    <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-learn-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-learn-light.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
@@ -1481,6 +1721,132 @@
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
+    <loc>https://ocufuse.com/sr/alati</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/sr/alati/tajmer-za-pauze</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/sr/alati/dnevnik-fotografija-ociju</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/sr/dnevnik-ociju</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/sr/zdravlje-ociju</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/sr/uci/vreme-pred-ekranom-i-udobnost-ociju</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/sr/istrazivanja</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://ocufuse.com/es/juegos-para-los-ojos</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
@@ -1503,9 +1869,6 @@
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
-    <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-learn-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-learn-light.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
@@ -1556,6 +1919,132 @@
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
+    <loc>https://ocufuse.com/es/herramientas</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/es/herramientas/temporizador-de-descansos</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/es/herramientas/diario-de-fotos-de-ojos</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/es/diario-de-seguimiento-ocular</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/es/bienestar-ocular</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/es/aprender/tiempo-de-pantalla-y-confort-visual</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/es/investigacion</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://ocufuse.com/it/giochi-per-gli-occhi</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
@@ -1578,9 +2067,6 @@
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
-    <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-learn-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-learn-light.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
@@ -1614,6 +2100,132 @@
   </url>
   <url>
     <loc>https://ocufuse.com/it/guide</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/it/strumenti</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/it/strumenti/timer-pause-schermo</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/it/strumenti/diario-foto-occhi</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/it/diario-degli-occhi</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/it/benessere-degli-occhi</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/it/impara/tempo-schermo-e-comfort-visivo</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/pay-stripe.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-visa-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-mastercard-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-amex-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-apple-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/pay-google-pay-dark.svg</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/it/ricerca</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
