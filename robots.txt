@@ -1,3 +1,11 @@
 User-agent: *
 Allow: /
+
+# Apple (Safari suggestions, Siri and Spotlight) and Bing, named so they always know they're welcome.
+User-agent: Applebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
 Sitemap: https://ocufuse.com/sitemap.xml
