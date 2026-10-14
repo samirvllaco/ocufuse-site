@@ -382,7 +382,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
@@ -474,6 +474,76 @@
   <url>
     <loc>https://ocufuse.com/symptoms/drooping-eyelid</loc>
     <lastmod>2026-10-14</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/blog/20-20-20-rule-what-the-research-found</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/blog/do-blue-light-glasses-help</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/blog/dry-eyes-at-work-desk-and-day</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/blog/contact-lens-habits-infection-risk</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/blog/how-often-should-you-get-your-eyes-checked</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/blog/myopia-in-children-time-outdoors</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/blog/reading-glasses-after-40-presbyopia</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/blog/sunglasses-and-uv-choosing-a-pair</loc>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/blog/sleep-screens-and-tired-eyes</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/blog/diabetes-and-your-eyes-yearly-screening</loc>
+    <lastmod>2026-10-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
