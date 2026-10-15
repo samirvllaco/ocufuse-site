@@ -228,6 +228,13 @@
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
+    <loc>https://ocufuse.com/sitemap</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://ocufuse.com/delete-account</loc>
     <lastmod>2026-10-11</lastmod>
     <changefreq>yearly</changefreq>
