@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'sha256-BAXi5wSrZ+A1OloMzaqbkn/NrVtqtvQrqo5h75zAw2w='; style-src 'sha256-yTqpzbezDioVv7Lkx5xmPEe/yy92PehzovlMVN7rXfo='; img-src 'none'; connect-src 'none'; base-uri 'none'; form-action 'none'">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<title>20-20-20 break timer | Ocufuse</title>
+<link rel="canonical" href="https://ocufuse.com/tools/screen-break-timer">
+<style>
+/* Embeddable break timer (growth plan phase 3, 17 Oct 2026). Built by build.mjs into dist/main/embed/break-timer.html.
+   Other sites may frame this one page. No analytics, no cookies, no storage, no network requests: one inline style and
+   one inline script, both allowed by hash. Colours are the site tokens, copied in at build time from src/styles.css. */
+:root{
+  --bg:#FFFFFF; --bg-alt:#F3F6FF; --surface:#FFFFFF; --ink:#0B1546; --muted:#4A5578; --line:#E1E7F7;
+  --blue:#0A35C8; --blue-hover:#0829A0; --blue-ink:#FFFFFF; --sky:#DCE8FF; --sky-ink:#0A35C8;
+  --navy:#041C80; --navy-ink:#FFFFFF; --navy-muted:#BFD0FF; --azure:#2DB8FB;
+  --ok:#E3F6EC; --ok-ink:#0E5B37;
+  --warn:#FFF4D6; --red:#C42B2B; --red-soft:#FDE7E5;
+  --f-display:"Nunito", "Nunito Fallback", ui-rounded, "SF Pro Rounded", system-ui, sans-serif;
+  --f-body:"Nunito Sans", "Nunito Sans Fallback", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --r-sm:12px; --r-md:20px; --r-lg:28px;
+  /* Icon containers (badges, tiles, icon buttons): always square, one corner scale tied to size, the same as the web app.
+     18-22px xs, 24-28px sm, 32-36px md, 40-48px lg, 52-64px xl, 80px and up 2xl. */
+  --r-ic-xs:6px; --r-ic-sm:8px; --r-ic-md:10px; --r-ic-lg:12px; --r-ic-xl:14px; --r-ic-2xl:20px;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#0D0E11; --bg-alt:#15171B; --surface:#1A1C21; --ink:#F2F3F5; --muted:#A9ADB6; --line:#2A2D34;
+  --blue:#5B8CFF; --blue-hover:#7FA6FF; --blue-ink:#0D0E11; --sky:#1C2230; --sky-ink:#9DBBFF;
+  --navy:#0A35C8; --navy-ink:#FFFFFF; --navy-muted:#DCE8FF; --azure:#5FCBFF;
+  --ok:#0F3325; --ok-ink:#8BE9BE;
+  --warn:#3A3220; --red:#FF7A70; --red-soft:#3A1E1D;
+  color-scheme:dark;
+}}
+:root[data-theme="dark"]{
+  --bg:#0D0E11; --bg-alt:#15171B; --surface:#1A1C21; --ink:#F2F3F5; --muted:#A9ADB6; --line:#2A2D34;
+  --blue:#5B8CFF; --blue-hover:#7FA6FF; --blue-ink:#0D0E11; --sky:#1C2230; --sky-ink:#9DBBFF;
+  --navy:#0A35C8; --navy-ink:#FFFFFF; --navy-muted:#DCE8FF; --azure:#5FCBFF;
+  --ok:#0F3325; --ok-ink:#8BE9BE;
+  --warn:#3A3220; --red:#FF7A70; --red-soft:#3A1E1D;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.5;-webkit-font-smoothing:antialiased}
+main{min-height:100%;display:grid;justify-items:center;align-content:center;gap:12px;padding:16px;text-align:center}
+h1{margin:0;font:900 18px/1.2 var(--f-display)}
+.ring{position:relative;display:grid;place-items:center;align-content:center;gap:4px;width:min(188px,60vw);aspect-ratio:1}
+.ring svg{position:absolute;inset:0;width:100%;height:100%;transform:rotate(-90deg)}
+.tr{stroke:var(--line)}.pr{stroke:var(--blue);transition:stroke-dashoffset .25s linear}
+.brk .pr{stroke:var(--ok-ink)}
+.time{font:900 40px/1 var(--f-display);font-variant-numeric:tabular-nums}
+.sub{max-width:14ch;font-size:13px;color:var(--muted)}
+.tip{margin:0;max-width:30ch;font-weight:700}
+.btns{display:flex;gap:8px;flex-wrap:wrap;justify-content:center}
+button{display:inline-flex;align-items:center;justify-content:center;min-height:44px;min-width:104px;padding:0 18px;border-radius:999px;border:2px solid transparent;font:800 15px var(--f-display);cursor:pointer}
+.go{background:var(--blue);color:var(--blue-ink)}.go:hover{background:var(--blue-hover)}
+.ghost{background:var(--surface);color:var(--ink);border-color:var(--line)}.ghost:hover{border-color:var(--blue)}
+button:disabled{opacity:.5;cursor:default}
+:focus-visible{outline:3px solid var(--azure);outline-offset:3px;border-radius:8px}
+label{display:inline-flex;align-items:center;gap:8px;min-height:44px;color:var(--muted);cursor:pointer}
+input{width:18px;height:18px;margin:0;accent-color:var(--blue)}
+.by{font-size:13px;color:var(--muted)}
+.by a{color:var(--blue);font-weight:700}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+@media (prefers-reduced-motion: reduce){.pr{transition:none}}
+</style>
+</head>
+<body>
+<main>
+<h1>20-20-20 timer</h1>
+<div class="ring" id="ring" role="timer" aria-label="Time until your next break">
+<svg viewBox="0 0 100 100" aria-hidden="true"><circle class="tr" cx="50" cy="50" r="46" fill="none" stroke-width="7"/><circle class="pr" id="pr" cx="50" cy="50" r="46" fill="none" stroke-width="7" stroke-linecap="round" stroke-dasharray="289.03" stroke-dashoffset="289.03"/></svg>
+<span class="time" id="time">20:00</span>
+<span class="sub" id="sub">Every 20 minutes</span>
+</div>
+<p class="tip" id="tip" hidden>Look at something about 20 feet (6 metres) away and blink a few times.</p>
+<p class="sr" id="say" aria-live="assertive"></p>
+<div class="btns"><button type="button" class="go" id="go">Start</button><button type="button" class="ghost" id="reset" disabled>Reset</button></div>
+<label><input type="checkbox" id="snd" checked> Soft chime</label>
+<p class="by"><a href="https://ocufuse.com/tools/screen-break-timer" target="_blank" rel="noopener">Break timer by Ocufuse</a></p>
+</main>
+<script>
+(function(){
+var q=new URLSearchParams(location.search).get("theme");if(q==="dark"||q==="light")document.documentElement.setAttribute("data-theme",q);
+var WORK=20*60000,BRK=20000,$=function(i){return document.getElementById(i)};
+var mode="idle",from="work",end=0,left=WORK,id=0;
+function fmt(ms){var s=Math.max(0,Math.ceil(ms/1000));return Math.floor(s/60)+":"+String(s%60).padStart(2,"0")}
+function chime(){if(!$("snd").checked)return;try{var A=window.AudioContext||window.webkitAudioContext;if(!A)return;var c=new A(),o=c.createOscillator(),g=c.createGain();o.type="sine";o.frequency.value=660;g.gain.setValueAtTime(.0001,c.currentTime);g.gain.exponentialRampToValueAtTime(.18,c.currentTime+.02);g.gain.exponentialRampToValueAtTime(.0001,c.currentTime+.6);o.connect(g).connect(c.destination);o.start();o.stop(c.currentTime+.65);o.onended=function(){c.close()}}catch(e){}}
+function draw(){var total=mode==="break"||(mode==="paused"&&from==="break")?BRK:WORK,pct=Math.max(0,Math.min(1,1-left/total));
+$("pr").setAttribute("stroke-dashoffset",String(289.03*(1-pct)));$("time").textContent=fmt(left);
+$("ring").className="ring"+(mode==="break"?" brk":"");$("tip").hidden=mode!=="break";
+$("sub").textContent=mode==="break"?"Look far away":mode==="work"?"Until your next break":mode==="paused"?"Paused":"Every 20 minutes";
+$("ring").setAttribute("aria-label",mode==="break"?"Break time left":"Time until your next break");
+$("go").textContent=mode==="work"||mode==="break"?"Pause":mode==="paused"?"Resume":"Start";$("reset").disabled=mode==="idle"}
+function tick(){left=end-Date.now();if(left<=0){chime();if(mode==="work"){mode="break";end=Date.now()+BRK;$("say").textContent="Break time. Look at something about 20 feet away for 20 seconds."}else{mode="work";end=Date.now()+WORK;$("say").textContent="Back to work. Next break in 20 minutes."}left=end-Date.now()}draw()}
+$("go").onclick=function(){if(mode==="work"||mode==="break"){left=end-Date.now();clearInterval(id);from=mode;mode="paused";draw();return}
+if(mode==="idle"){left=WORK;from="work"}end=Date.now()+left;mode=from;clearInterval(id);id=setInterval(tick,250);draw()};
+$("reset").onclick=function(){clearInterval(id);mode="idle";from="work";left=WORK;$("say").textContent="";draw()};
+draw();
+})();
+</script>
+</body>
+</html>

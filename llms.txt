@@ -3,6 +3,7 @@
 > Ocufuse is an eye health journal and eye games app on the web, with an iPhone app launching October 23, 2026. It offers three free browser games for screen breaks on ocufuse.com (Shade Hunt, Dot Chase, Edge Spot; no download, free with an email address, no account needed), visual games and guided eye exercises in the app (including companions for exercises clinicians give for lazy eye, strabismus and convergence insufficiency), comfort routines for eye strain, a daily log, optional eye photos and a Doctor Brief to share with an eye care professional. Ocufuse is not a medical device and does not diagnose or treat any condition. It is free to start; Ocufuse Plus costs $7.99 a month (3-day free trial), $49.99 a year (7-day free trial) or $119.99 once for Lifetime. Web app: https://app.ocufuse.com
 
 ## Product
+- [Ocufuse promo code: 10% off Ocufuse Plus](https://ocufuse.com/promo-code): Ocufuse promo code OCU28EE10QZ3: 10% off your first Ocufuse Plus payment, for new subscribers, limited to 100 uses. How to apply it at checkout.
 - [Ocufuse: eye log, screen-break games and a Doctor Brief](https://ocufuse.com/): Free eye games for screen breaks, a daily eye log and a Doctor Brief to share with your eye doctor. Free to start in your browser.
 - [Ocufuse Doctor Brief: A Guide for Eye Care Clinicians](https://ocufuse.com/clinicians): For ophthalmologists, optometrists, orthoptists and GPs: what an Ocufuse Doctor Brief contains, how patients make it, and its limits.
 - [Safety, intended use and eye warning signs](https://ocufuse.com/safety): What Ocufuse is for and what it is not for, plus the eye warning signs that need a doctor straight away, such as sudden vision loss or double vision.
@@ -10,10 +11,20 @@
 - [Ocufuse for iPhone: eye log and eye games app](https://ocufuse.com/app): Ocufuse for iPhone: a daily eye log with a reminder, eye games for short breaks, and sync with the web app. Launching October 23, 2026. Join the waiting list.
 
 ## Free eye games
+- [Visual Memory: a free tile sequence game](https://ocufuse.com/games/visual-memory): Watch tiles light up one after another, then tap them back in the same order. A free memory game for screen breaks, and each round adds one tile.
 - [Free eye games you can play in your browser](https://ocufuse.com/games): Three free eye games for screen breaks: Shade Hunt, Dot Chase and Edge Spot. No download, free with your email, a minute or two each, on phone or computer.
 - [Shade Hunt: find the odd tile, a free screen-break game](https://ocufuse.com/games/shade-hunt): Find the tile that is a slightly different color. A free 60-second browser game for screen breaks: the grid grows as the shades get closer. Free with email.
 - [Dot Chase: follow the dot, a free screen-break game](https://ocufuse.com/games/dot-chase): Follow the moving dot with your eyes and catch it when it changes colour. A free two-minute eye tracking game for screen breaks, on phone or computer.
 - [Edge Spot: watch the edges, a free screen-break game](https://ocufuse.com/games/edge-spot): Keep your eyes on the centre cross and spot the diamond that flashes at the edges. A free peripheral vision game for screen breaks, with six levels.
+
+## Free tools
+- [Free eye tools: break timer, monitor distance and more](https://ocufuse.com/tools): Free browser tools: a 20-20-20 timer, a monitor distance calculator, a blink counter, eye appointment questions, eye games and eye journals.
+- [20-20-20 timer: free screen break reminder](https://ocufuse.com/tools/screen-break-timer): A free 20-20-20 timer in your browser. Every 20 minutes it reminds you to look 20 feet away for 20 seconds, with a chime or a notification.
+- [Monitor distance calculator: how far and how high](https://ocufuse.com/tools/monitor-distance): Enter your screen size and desk depth to see how far away and how high your monitor should sit, using OSHA, Mayo Clinic and eye care guidance.
+- [Blink counter: count your blinks in 60 seconds](https://ocufuse.com/tools/blink-counter): Tap each time you blink for 60 seconds, then see your count next to the typical ranges from Cleveland Clinic and the AAO. No camera, nothing saved.
+- [Questions for my eye appointment: printable list](https://ocufuse.com/tools/appointment-questions): A printable checklist for your eye appointment: what to bring, how to describe what you notice and questions to ask, with space for your own notes.
+- [Eye photo journal: dated eye photos for your doctor](https://ocufuse.com/tools/eye-photo-journal): Take eye photos the same way each time with guided framing, keep them dated next to your notes, and share them in a Doctor Brief. Photos are kept private and never measured.
+- [Eye tracking journal: log how your eyes feel, day by day](https://ocufuse.com/eye-tracking-journal): A simple journal for eye symptoms that come and go: how your eyes feel, screen time, sleep, drops and photos, in about 20 seconds a day. Share it with your eye doctor.
 
 ## Eye exercises
 - [Eye exercises: what the research says and how to track them](https://ocufuse.com/eye-exercises/): Do eye exercises improve vision? What eye exercises can and can't do, the techniques clinicians prescribe, what the research says, and how to log them.

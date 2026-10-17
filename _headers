@@ -14,3 +14,7 @@
   Cache-Control: public, max-age=2592000
 /*.html
   Cache-Control: no-cache
+/embed/*
+  ! X-Frame-Options
+  ! Content-Security-Policy
+  Content-Security-Policy: frame-ancestors *; base-uri 'none'; object-src 'none'

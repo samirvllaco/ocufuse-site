@@ -27,11 +27,11 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/outils/minuteur-de-pauses"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/ferramentas/temporizador-de-pausas"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/tools/screen-break-timer"/>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-stretch-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-screen-break-timer.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/tools/eye-photo-journal</loc>
@@ -116,10 +116,38 @@
   </url>
   <url>
     <loc>https://ocufuse.com/games/visual-memory</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
-    <image:image><image:loc>https://ocufuse.com/og-games.png</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-visual-memory.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/tools/monitor-distance</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-monitor-distance.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/tools/blink-counter</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-blink-counter.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/tools/appointment-questions</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-appointment-questions.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/promo-code</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-promo-code.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/</loc>
@@ -1372,7 +1400,7 @@
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-stretch-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-screen-break-timer.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/sq/mjete/ditari-i-fotove-te-syve</loc>
@@ -1552,7 +1580,7 @@
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-stretch-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-screen-break-timer.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/tr/araclar/goz-fotografi-gunlugu</loc>
@@ -1732,7 +1760,7 @@
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-stretch-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-screen-break-timer.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/sr/alati/dnevnik-fotografija-ociju</loc>
@@ -1912,7 +1940,7 @@
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-stretch-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-screen-break-timer.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/es/herramientas/diario-de-fotos-de-ojos</loc>
@@ -2092,7 +2120,7 @@
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-stretch-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-screen-break-timer.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/it/strumenti/diario-foto-occhi</loc>
@@ -2272,7 +2300,7 @@
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-stretch-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-screen-break-timer.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/fr/outils/journal-photo-des-yeux</loc>
@@ -2452,7 +2480,7 @@
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-stretch-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-screen-break-timer.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/pt/ferramentas/diario-de-fotos-dos-olhos</loc>
