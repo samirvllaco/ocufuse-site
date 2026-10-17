@@ -1,0 +1,31 @@
+# Sends every URL in sitemap.xml to IndexNow (Bing, Yandex, Seznam, Naver and others) after each deploy.
+# Uses only the public IndexNow key file at the site root. Added 17 Oct 2026 at the owner's request.
+name: IndexNow
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Wait for Cloudflare Pages to publish
+        run: sleep 120
+      - name: Submit sitemap URLs
+        run: |
+          set -euo pipefail
+          KEY=2591813a15a0a29034f2d5d0e17579e4
+          curl -fsS https://ocufuse.com/$KEY.txt | grep -q "$KEY"
+          curl -fsS https://ocufuse.com/sitemap.xml | grep -o '<loc>[^<]*</loc>' | sed 's#</\?loc>##g' | sort -u > urls.txt
+          echo "URLs: $(wc -l < urls.txt)"
+          python3 - "$KEY" <<'PY'
+          import json, sys
+          key = sys.argv[1]
+          urls = [u.strip() for u in open("urls.txt") if u.strip().startswith("https://ocufuse.com")]
+          json.dump({"host": "ocufuse.com", "key": key, "keyLocation": f"https://ocufuse.com/{key}.txt", "urlList": urls[:10000]}, open("body.json", "w"))
+          PY
+          code=$(curl -sS -o resp.txt -w '%{http_code}' -X POST https://api.indexnow.org/indexnow \
+            -H 'Content-Type: application/json; charset=utf-8' --data @body.json)
+          echo "IndexNow HTTP $code"; cat resp.txt || true
+          case "$code" in 200|202) ;; *) exit 1 ;; esac
