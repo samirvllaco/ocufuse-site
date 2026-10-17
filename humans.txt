@@ -7,7 +7,7 @@ Facebook: https://www.facebook.com/ocufuse
 Site: https://ocufuse.com
 
 /* SITE */
-Last update: 2026-10-16
+Last update: 2026-10-17
 Language: English
 Standards: HTML5, CSS3, schema.org
 Built with: React, esbuild, GitHub Pages
