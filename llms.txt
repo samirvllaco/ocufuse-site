@@ -24,7 +24,7 @@
 - [Blink counter: count your blinks in 60 seconds](https://ocufuse.com/tools/blink-counter): Tap each time you blink for 60 seconds, then see your count next to the typical ranges from Cleveland Clinic and the AAO. No camera, nothing saved.
 - [Eye appointment checklist: questions to ask, what to bring](https://ocufuse.com/tools/appointment-questions): A free printable eye appointment checklist: what to bring, how to describe what you notice and questions to ask, with space for your own notes.
 - [Eye photo journal: dated eye photos for your doctor](https://ocufuse.com/tools/eye-photo-journal): Take eye photos the same way each time, keep them dated next to your notes, and show them at your eye appointment. Free in the Ocufuse web app.
-- [Eye symptom journal and tracker: log how your eyes feel](https://ocufuse.com/eye-tracking-journal): Log eye symptoms that come and go, with screen time, sleep, drops and optional photos, in about 20 seconds a day. Free in the Ocufuse web app.
+- [Eye symptom journal and tracker: log how your eyes feel](https://ocufuse.com/eye-tracking-journal): Log eye symptoms that come and go, with screen time, sleep, drops and optional photos, in a few taps a day. Free in the Ocufuse web app.
 
 ## Eye exercises
 - [Eye exercises: what the research says and how to track them](https://ocufuse.com/eye-exercises/): Do eye exercises improve vision? What eye exercises can and can't do, the techniques clinicians prescribe, what the research says, and how to log them.
