@@ -65,6 +65,10 @@
     <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-brief-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-brief-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-light.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
@@ -178,22 +182,14 @@
     <image:image><image:loc>https://ocufuse.com/ocu-magnifier-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-tiles-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-look-up-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-today-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-practice-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-care-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-learn-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-today-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-progress-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-care-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-learn-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-brief-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-stretch-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-light.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-brief-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/sample-brief-2.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/sample-brief-1.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/sample-brief-3.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/ocu-victory-240.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-today-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -1074,22 +1070,14 @@
     <image:image><image:loc>https://ocufuse.com/ocu-magnifier-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-tiles-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-look-up-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-today-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-practice-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-care-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-learn-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-today-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-progress-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-care-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-learn-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-brief-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-stretch-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-light.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-brief-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/sample-brief-2.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/sample-brief-1.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/sample-brief-3.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/ocu-victory-240.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-today-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -1110,22 +1098,14 @@
     <image:image><image:loc>https://ocufuse.com/ocu-magnifier-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-tiles-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-look-up-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-today-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-practice-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-care-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-learn-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-today-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-progress-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-care-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-learn-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-brief-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-stretch-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-light.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-brief-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/sample-brief-2.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/sample-brief-1.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/sample-brief-3.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/ocu-victory-240.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-today-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -1146,22 +1126,14 @@
     <image:image><image:loc>https://ocufuse.com/ocu-magnifier-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-tiles-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-look-up-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-today-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-practice-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-care-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-learn-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-today-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-progress-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-care-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-learn-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-brief-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-stretch-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-light.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-brief-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/sample-brief-2.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/sample-brief-1.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/sample-brief-3.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/ocu-victory-240.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-today-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -1182,22 +1154,14 @@
     <image:image><image:loc>https://ocufuse.com/ocu-magnifier-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-tiles-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-look-up-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-today-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-practice-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-care-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-learn-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-today-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-progress-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-care-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-learn-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-brief-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-stretch-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-light.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-brief-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/sample-brief-2.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/sample-brief-1.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/sample-brief-3.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/ocu-victory-240.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-today-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -1218,22 +1182,14 @@
     <image:image><image:loc>https://ocufuse.com/ocu-magnifier-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-tiles-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-look-up-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-today-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-practice-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-care-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-learn-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-today-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-progress-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-care-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-learn-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-brief-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-stretch-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-light.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-brief-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/sample-brief-2.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/sample-brief-1.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/sample-brief-3.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/ocu-victory-240.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-today-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -1254,22 +1210,14 @@
     <image:image><image:loc>https://ocufuse.com/ocu-magnifier-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-tiles-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-look-up-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-today-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-practice-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-care-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-learn-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-today-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-progress-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-care-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-learn-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-brief-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-stretch-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-light.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-brief-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/sample-brief-2.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/sample-brief-1.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/sample-brief-3.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/ocu-victory-240.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-today-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -1290,22 +1238,14 @@
     <image:image><image:loc>https://ocufuse.com/ocu-magnifier-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-tiles-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-look-up-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-today-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-practice-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-care-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-learn-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-today-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-progress-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-care-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-learn-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-brief-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-stretch-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-light.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-brief-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/sample-brief-2.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/sample-brief-1.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/sample-brief-3.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/ocu-victory-240.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-today-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -1440,6 +1380,10 @@
     <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-brief-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-brief-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-light.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
@@ -1625,6 +1569,10 @@
     <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-brief-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-brief-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-light.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
@@ -1810,6 +1758,10 @@
     <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-brief-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-brief-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-light.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
@@ -1995,6 +1947,10 @@
     <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-brief-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-brief-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-light.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
@@ -2180,6 +2136,10 @@
     <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-brief-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-brief-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-light.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
@@ -2365,6 +2325,10 @@
     <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-brief-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-brief-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-light.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
@@ -2550,6 +2514,10 @@
     <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-brief-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-brief-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-brief-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-light.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
