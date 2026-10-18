@@ -44,9 +44,11 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/outils/journal-photo-des-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/ferramentas/diario-de-fotos-dos-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/tools/eye-photo-journal"/>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-tablet-progress-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-tablet-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -60,9 +62,11 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/journal-des-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/diario-dos-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/eye-tracking-journal"/>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -92,7 +96,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/apprendre/temps-d-ecran-et-confort-des-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/aprender/tempo-de-tela-e-conforto-dos-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/learn/screen-time-eye-comfort"/>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
@@ -137,7 +141,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/tools/appointment-questions</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/og-appointment-questions.png</image:loc></image:image>
@@ -150,6 +154,13 @@
     <image:image><image:loc>https://ocufuse.com/og-promo-code.png</image:loc></image:image>
   </url>
   <url>
+    <loc>https://ocufuse.com/editorial-policy</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://ocufuse.com/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://ocufuse.com/"/>
     <xhtml:link rel="alternate" hreflang="sq" href="https://ocufuse.com/sq/"/>
@@ -160,7 +171,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/"/>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image><image:loc>https://ocufuse.com/shot-desktop-today-dark.webp</image:loc></image:image>
@@ -411,7 +422,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/jeux-pour-les-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/jogos-para-os-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/games"/>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-tiles-240.webp</image:loc></image:image>
@@ -1010,13 +1021,6 @@
     <image:image><image:loc>https://ocufuse.com/og-blog-double-vision-that-comes-and-goes.png</image:loc></image:image>
   </url>
   <url>
-    <loc>https://ocufuse.com/blog/screen-eye-strain-what-helps</loc>
-    <lastmod>2026-10-17</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-    <image:image><image:loc>https://ocufuse.com/og-blog-screen-eye-strain-what-helps.png</image:loc></image:image>
-  </url>
-  <url>
     <loc>https://ocufuse.com/blog/red-eye-when-to-see-a-doctor</loc>
     <lastmod>2026-10-17</lastmod>
     <changefreq>yearly</changefreq>
@@ -1314,7 +1318,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/jeux-pour-les-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/jogos-para-os-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/games"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-tiles-240.webp</image:loc></image:image>
@@ -1363,7 +1367,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/guides"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/guias"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/guides"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-240.webp</image:loc></image:image>
@@ -1396,7 +1400,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/outils/minuteur-de-pauses"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/ferramentas/temporizador-de-pausas"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/tools/screen-break-timer"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-stretch-240.webp</image:loc></image:image>
@@ -1413,9 +1417,11 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/outils/journal-photo-des-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/ferramentas/diario-de-fotos-dos-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/tools/eye-photo-journal"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-tablet-progress-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-tablet-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -1429,9 +1435,11 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/journal-des-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/diario-dos-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/eye-tracking-journal"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -1461,7 +1469,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/apprendre/temps-d-ecran-et-confort-des-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/aprender/tempo-de-tela-e-conforto-dos-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/learn/screen-time-eye-comfort"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
@@ -1494,7 +1502,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/jeux-pour-les-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/jogos-para-os-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/games"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-tiles-240.webp</image:loc></image:image>
@@ -1543,7 +1551,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/guides"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/guias"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/guides"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-240.webp</image:loc></image:image>
@@ -1576,7 +1584,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/outils/minuteur-de-pauses"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/ferramentas/temporizador-de-pausas"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/tools/screen-break-timer"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-stretch-240.webp</image:loc></image:image>
@@ -1593,9 +1601,11 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/outils/journal-photo-des-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/ferramentas/diario-de-fotos-dos-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/tools/eye-photo-journal"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-tablet-progress-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-tablet-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -1609,9 +1619,11 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/journal-des-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/diario-dos-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/eye-tracking-journal"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -1641,7 +1653,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/apprendre/temps-d-ecran-et-confort-des-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/aprender/tempo-de-tela-e-conforto-dos-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/learn/screen-time-eye-comfort"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
@@ -1674,7 +1686,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/jeux-pour-les-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/jogos-para-os-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/games"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-tiles-240.webp</image:loc></image:image>
@@ -1723,7 +1735,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/guides"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/guias"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/guides"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-240.webp</image:loc></image:image>
@@ -1756,7 +1768,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/outils/minuteur-de-pauses"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/ferramentas/temporizador-de-pausas"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/tools/screen-break-timer"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-stretch-240.webp</image:loc></image:image>
@@ -1773,9 +1785,11 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/outils/journal-photo-des-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/ferramentas/diario-de-fotos-dos-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/tools/eye-photo-journal"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-tablet-progress-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-tablet-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -1789,9 +1803,11 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/journal-des-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/diario-dos-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/eye-tracking-journal"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -1821,7 +1837,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/apprendre/temps-d-ecran-et-confort-des-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/aprender/tempo-de-tela-e-conforto-dos-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/learn/screen-time-eye-comfort"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
@@ -1854,7 +1870,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/jeux-pour-les-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/jogos-para-os-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/games"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-tiles-240.webp</image:loc></image:image>
@@ -1903,7 +1919,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/guides"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/guias"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/guides"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-240.webp</image:loc></image:image>
@@ -1936,7 +1952,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/outils/minuteur-de-pauses"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/ferramentas/temporizador-de-pausas"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/tools/screen-break-timer"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-stretch-240.webp</image:loc></image:image>
@@ -1953,9 +1969,11 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/outils/journal-photo-des-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/ferramentas/diario-de-fotos-dos-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/tools/eye-photo-journal"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-tablet-progress-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-tablet-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -1969,9 +1987,11 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/journal-des-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/diario-dos-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/eye-tracking-journal"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -2001,7 +2021,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/apprendre/temps-d-ecran-et-confort-des-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/aprender/tempo-de-tela-e-conforto-dos-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/learn/screen-time-eye-comfort"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
@@ -2034,7 +2054,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/jeux-pour-les-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/jogos-para-os-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/games"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-tiles-240.webp</image:loc></image:image>
@@ -2083,7 +2103,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/guides"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/guias"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/guides"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-240.webp</image:loc></image:image>
@@ -2116,7 +2136,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/outils/minuteur-de-pauses"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/ferramentas/temporizador-de-pausas"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/tools/screen-break-timer"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-stretch-240.webp</image:loc></image:image>
@@ -2133,9 +2153,11 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/outils/journal-photo-des-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/ferramentas/diario-de-fotos-dos-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/tools/eye-photo-journal"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-tablet-progress-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-tablet-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -2149,9 +2171,11 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/journal-des-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/diario-dos-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/eye-tracking-journal"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -2181,7 +2205,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/apprendre/temps-d-ecran-et-confort-des-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/aprender/tempo-de-tela-e-conforto-dos-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/learn/screen-time-eye-comfort"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
@@ -2214,7 +2238,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/jeux-pour-les-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/jogos-para-os-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/games"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-tiles-240.webp</image:loc></image:image>
@@ -2263,7 +2287,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/guides"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/guias"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/guides"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-240.webp</image:loc></image:image>
@@ -2296,7 +2320,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/outils/minuteur-de-pauses"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/ferramentas/temporizador-de-pausas"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/tools/screen-break-timer"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-stretch-240.webp</image:loc></image:image>
@@ -2313,9 +2337,11 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/outils/journal-photo-des-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/ferramentas/diario-de-fotos-dos-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/tools/eye-photo-journal"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-tablet-progress-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-tablet-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -2329,9 +2355,11 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/journal-des-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/diario-dos-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/eye-tracking-journal"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -2361,7 +2389,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/apprendre/temps-d-ecran-et-confort-des-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/aprender/tempo-de-tela-e-conforto-dos-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/learn/screen-time-eye-comfort"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
@@ -2394,7 +2422,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/jeux-pour-les-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/jogos-para-os-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/games"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-tiles-240.webp</image:loc></image:image>
@@ -2443,7 +2471,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/guides"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/guias"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/guides"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-240.webp</image:loc></image:image>
@@ -2476,7 +2504,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/outils/minuteur-de-pauses"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/ferramentas/temporizador-de-pausas"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/tools/screen-break-timer"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-stretch-240.webp</image:loc></image:image>
@@ -2493,9 +2521,11 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/outils/journal-photo-des-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/ferramentas/diario-de-fotos-dos-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/tools/eye-photo-journal"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-tablet-progress-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-tablet-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -2509,9 +2539,11 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/journal-des-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/diario-dos-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/eye-tracking-journal"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -2541,7 +2573,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/apprendre/temps-d-ecran-et-confort-des-yeux"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/aprender/tempo-de-tela-e-conforto-dos-olhos"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/learn/screen-time-eye-comfort"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
