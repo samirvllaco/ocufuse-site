@@ -12,7 +12,7 @@
 
 ## Free eye games
 - [Visual Memory: a free tile sequence game](https://ocufuse.com/games/visual-memory): Watch tiles light up one after another, then tap them back in the same order. A free memory game for screen breaks, and each round adds one tile.
-- [Free eye games you can play in your browser](https://ocufuse.com/games): Three free eye games for screen breaks: Shade Hunt, Dot Chase and Edge Spot. No download, free with your email, a minute or two each, on phone or computer.
+- [Free eye games you can play in your browser](https://ocufuse.com/games): Four free browser games for screen breaks: Shade Hunt, Dot Chase, Edge Spot and Visual Memory. No download, free with your email, on phone or computer.
 - [Shade Hunt: find the odd tile, a free screen-break game](https://ocufuse.com/games/shade-hunt): Find the tile that is a slightly different color. A free 60-second browser game for screen breaks: the grid grows as the shades get closer. Free with email.
 - [Dot Chase: follow the dot, a free screen-break game](https://ocufuse.com/games/dot-chase): Follow the moving dot with your eyes and catch it when it changes colour. A free two-minute eye tracking game for screen breaks, on phone or computer.
 - [Edge Spot: watch the edges, a free screen-break game](https://ocufuse.com/games/edge-spot): Keep your eyes on the centre cross and spot the diamond that flashes at the edges. A free peripheral vision game for screen breaks, with six levels.
@@ -20,7 +20,7 @@
 ## Free tools
 - [Free eye tools: break timer, monitor distance and more](https://ocufuse.com/tools): Free browser tools: a 20-20-20 timer, a monitor distance calculator, a blink counter, eye appointment questions, eye games and eye journals.
 - [20-20-20 timer: free screen break reminder](https://ocufuse.com/tools/screen-break-timer): A free 20-20-20 timer in your browser. Every 20 minutes it reminds you to look 20 feet away for 20 seconds, with a chime or a notification.
-- [Monitor distance calculator: how far and how high](https://ocufuse.com/tools/monitor-distance): Enter your screen size and desk depth to see how far away and how high your monitor should sit, using OSHA, Mayo Clinic and eye care guidance.
+- [Monitor distance calculator: how far should your monitor be?](https://ocufuse.com/tools/monitor-distance): How far should your monitor be? Find your screen size by device, tape or bank card, then see the distance and height OSHA and Mayo Clinic suggest.
 - [Blink counter: count your blinks in 60 seconds](https://ocufuse.com/tools/blink-counter): Tap each time you blink for 60 seconds, then see your count next to the typical ranges from Cleveland Clinic and the AAO. No camera, nothing saved.
 - [Questions for my eye appointment: printable list](https://ocufuse.com/tools/appointment-questions): A printable checklist for your eye appointment: what to bring, how to describe what you notice and questions to ask, with space for your own notes.
 - [Eye photo journal: dated eye photos for your doctor](https://ocufuse.com/tools/eye-photo-journal): Take eye photos the same way each time with guided framing, keep them dated next to your notes, and share them in a Doctor Brief. Photos are kept private and never measured.
