@@ -18,10 +18,10 @@
 - [Edge Spot: watch the edges, a free screen-break game](https://ocufuse.com/games/edge-spot): Keep your eyes on the centre cross and spot the diamond that flashes at the edges. A free peripheral vision game for screen breaks, with six levels.
 
 ## Free tools
-- [Free eye tools: break timer, monitor distance and more](https://ocufuse.com/tools): Free browser tools: a 20-20-20 timer, a monitor distance calculator, a blink counter, eye appointment questions, eye games and eye journals.
+- [Free eye tools: break timer, monitor distance and more](https://ocufuse.com/tools): Free browser tools: a 20-20-20 timer, a monitor distance calculator, a text size calculator, eye appointment questions, eye games and eye journals.
 - [20-20-20 timer: free screen break reminder](https://ocufuse.com/tools/screen-break-timer): A free 20-20-20 timer in your browser. Every 20 minutes it reminds you to look 20 feet away for 20 seconds, with a chime or a notification.
 - [Monitor distance calculator: screen distance and height](https://ocufuse.com/tools/monitor-distance): Find your screen size by device, tape or bank card, then see the viewing distance and screen height that OSHA and Mayo Clinic suggest. Free, in your browser.
-- [Blink counter: count your blinks in 60 seconds](https://ocufuse.com/tools/blink-counter): Tap each time you blink for 60 seconds, then see your count next to the typical ranges from Cleveland Clinic and the AAO. No camera, nothing saved.
+- [Text size calculator: how big should text be on screen?](https://ocufuse.com/tools/text-size): Find your screen size and viewing distance, then see how tall text should be, using the ANSI/HFES 100-2007 workstation standard. Free, in your browser.
 - [Eye appointment checklist: questions to ask, what to bring](https://ocufuse.com/tools/appointment-questions): A free printable eye appointment checklist: what to bring, how to describe what you notice and questions to ask, with space for your own notes.
 - [Eye photo journal: dated eye photos for your doctor](https://ocufuse.com/tools/eye-photo-journal): Take eye photos the same way each time, keep them dated next to your notes, and show them at your eye appointment. Free in the Ocufuse web app.
 - [Eye symptom journal and tracker: log how your eyes feel](https://ocufuse.com/eye-tracking-journal): Log eye symptoms that come and go, with screen time, sleep, drops and optional photos, in a few taps a day. Free in the Ocufuse web app.

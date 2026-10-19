@@ -140,12 +140,12 @@
     <image:image><image:loc>https://ocufuse.com/og-monitor-distance.png</image:loc></image:image>
   </url>
   <url>
-    <loc>https://ocufuse.com/tools/blink-counter</loc>
-    <lastmod>2026-10-17</lastmod>
+    <loc>https://ocufuse.com/tools/text-size</loc>
+    <lastmod>2026-10-19</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
-    <image:image><image:loc>https://ocufuse.com/ocu-reader-quiet-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/og-blink-counter.png</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-240.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-text-size.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/tools/appointment-questions</loc>
