@@ -18,3 +18,7 @@
   ! X-Frame-Options
   ! Content-Security-Policy
   Content-Security-Policy: frame-ancestors *; base-uri 'none'; object-src 'none'
+/press-*
+  Access-Control-Allow-Origin: *
+  Cross-Origin-Resource-Policy: cross-origin
+  Cache-Control: public, max-age=3600
