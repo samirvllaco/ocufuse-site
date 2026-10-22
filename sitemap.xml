@@ -251,7 +251,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/privacy</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
@@ -480,6 +480,29 @@
     <lastmod>2026-10-12</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/affiliates</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ocufuse.com/affiliates"/>
+    <xhtml:link rel="alternate" hreflang="sq" href="https://ocufuse.com/sq/program-partneriteti"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ocufuse.com/tr/ortaklik-programi"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://ocufuse.com/sr/partnerski-program"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ocufuse.com/es/afiliados"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://ocufuse.com/it/affiliazione"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/affiliation"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/afiliados"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/affiliates"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/affiliate-terms</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -1503,6 +1526,22 @@
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
+    <loc>https://ocufuse.com/sq/program-partneriteti</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ocufuse.com/affiliates"/>
+    <xhtml:link rel="alternate" hreflang="sq" href="https://ocufuse.com/sq/program-partneriteti"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ocufuse.com/tr/ortaklik-programi"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://ocufuse.com/sr/partnerski-program"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ocufuse.com/es/afiliados"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://ocufuse.com/it/affiliazione"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/affiliation"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/afiliados"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/affiliates"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://ocufuse.com/tr/goz-oyunlari</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://ocufuse.com/games"/>
     <xhtml:link rel="alternate" hreflang="sq" href="https://ocufuse.com/sq/lojera-per-syte"/>
@@ -1701,6 +1740,22 @@
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-magnifier-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/mascot-photos-240.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/tr/ortaklik-programi</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ocufuse.com/affiliates"/>
+    <xhtml:link rel="alternate" hreflang="sq" href="https://ocufuse.com/sq/program-partneriteti"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ocufuse.com/tr/ortaklik-programi"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://ocufuse.com/sr/partnerski-program"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ocufuse.com/es/afiliados"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://ocufuse.com/it/affiliazione"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/affiliation"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/afiliados"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/affiliates"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -1905,6 +1960,22 @@
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
+    <loc>https://ocufuse.com/sr/partnerski-program</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ocufuse.com/affiliates"/>
+    <xhtml:link rel="alternate" hreflang="sq" href="https://ocufuse.com/sq/program-partneriteti"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ocufuse.com/tr/ortaklik-programi"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://ocufuse.com/sr/partnerski-program"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ocufuse.com/es/afiliados"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://ocufuse.com/it/affiliazione"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/affiliation"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/afiliados"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/affiliates"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://ocufuse.com/es/juegos-para-los-ojos</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://ocufuse.com/games"/>
     <xhtml:link rel="alternate" hreflang="sq" href="https://ocufuse.com/sq/lojera-per-syte"/>
@@ -2103,6 +2174,22 @@
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-magnifier-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/mascot-photos-240.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/es/afiliados</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ocufuse.com/affiliates"/>
+    <xhtml:link rel="alternate" hreflang="sq" href="https://ocufuse.com/sq/program-partneriteti"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ocufuse.com/tr/ortaklik-programi"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://ocufuse.com/sr/partnerski-program"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ocufuse.com/es/afiliados"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://ocufuse.com/it/affiliazione"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/affiliation"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/afiliados"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/affiliates"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -2307,6 +2394,22 @@
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
+    <loc>https://ocufuse.com/it/affiliazione</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ocufuse.com/affiliates"/>
+    <xhtml:link rel="alternate" hreflang="sq" href="https://ocufuse.com/sq/program-partneriteti"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ocufuse.com/tr/ortaklik-programi"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://ocufuse.com/sr/partnerski-program"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ocufuse.com/es/afiliados"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://ocufuse.com/it/affiliazione"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/affiliation"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/afiliados"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/affiliates"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://ocufuse.com/fr/jeux-pour-les-yeux</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://ocufuse.com/games"/>
     <xhtml:link rel="alternate" hreflang="sq" href="https://ocufuse.com/sq/lojera-per-syte"/>
@@ -2508,6 +2611,22 @@
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
+    <loc>https://ocufuse.com/fr/affiliation</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ocufuse.com/affiliates"/>
+    <xhtml:link rel="alternate" hreflang="sq" href="https://ocufuse.com/sq/program-partneriteti"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ocufuse.com/tr/ortaklik-programi"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://ocufuse.com/sr/partnerski-program"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ocufuse.com/es/afiliados"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://ocufuse.com/it/affiliazione"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/affiliation"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/afiliados"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/affiliates"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://ocufuse.com/pt/jogos-para-os-olhos</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://ocufuse.com/games"/>
     <xhtml:link rel="alternate" hreflang="sq" href="https://ocufuse.com/sq/lojera-per-syte"/>
@@ -2706,6 +2825,22 @@
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-magnifier-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/mascot-photos-240.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/pt/afiliados</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ocufuse.com/affiliates"/>
+    <xhtml:link rel="alternate" hreflang="sq" href="https://ocufuse.com/sq/program-partneriteti"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://ocufuse.com/tr/ortaklik-programi"/>
+    <xhtml:link rel="alternate" hreflang="sr" href="https://ocufuse.com/sr/partnerski-program"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://ocufuse.com/es/afiliados"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://ocufuse.com/it/affiliazione"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/affiliation"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/afiliados"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/affiliates"/>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
