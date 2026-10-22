@@ -183,7 +183,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/"/>
-    <lastmod>2026-10-18</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image><image:loc>https://ocufuse.com/mascot-photos-240.webp</image:loc></image:image>
@@ -507,7 +507,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-quiet-240.webp</image:loc></image:image>
@@ -616,6 +616,27 @@
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/mascot-photos-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/blog/best-eye-break-apps</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-blog-best-eye-break-apps.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/blog/lookaway-alternative</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-blog-lookaway-alternative.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/blog/stretchly-alternative</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-blog-stretchly-alternative.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/blog/how-far-should-your-monitor-be-from-your-eyes</loc>
@@ -1118,7 +1139,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/mascot-photos-240.webp</image:loc></image:image>
@@ -1149,7 +1170,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/mascot-photos-240.webp</image:loc></image:image>
@@ -1180,7 +1201,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/mascot-photos-240.webp</image:loc></image:image>
@@ -1211,7 +1232,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/mascot-photos-240.webp</image:loc></image:image>
@@ -1242,7 +1263,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/mascot-photos-240.webp</image:loc></image:image>
@@ -1273,7 +1294,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/mascot-photos-240.webp</image:loc></image:image>
@@ -1304,7 +1325,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://ocufuse.com/fr/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://ocufuse.com/pt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ocufuse.com/"/>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/mascot-photos-240.webp</image:loc></image:image>

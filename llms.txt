@@ -76,6 +76,9 @@
 - [Registro dos exercícios para os olhos prescritos](https://ocufuse.com/pt/exercicios-para-os-olhos/registro-de-exercicios): O que anotar quando você faz em casa os exercícios para os olhos prescritos, um formato de registro simples e como levá-lo ao ortoptista ou optometrista.
 
 ## Blog
+- [Stretchly alternative: break reminders with an eye journal](https://ocufuse.com/blog/stretchly-alternative): Stretchly is a free, open source break reminder. When a browser timer or the Ocufuse web app may suit you better, and how they compare.
+- [LookAway alternative for Windows, Chromebook or any browser](https://ocufuse.com/blog/lookaway-alternative): LookAway is a paid Mac break app. If you're on Windows, a Chromebook or a work laptop, here are alternatives, including a free 20-20-20 timer in your browser.
+- [Eye break apps compared: LookAway, Stretchly and browser timers](https://ocufuse.com/blog/best-eye-break-apps): Four ways to get screen break reminders: LookAway for Mac, Stretchly for any computer, a free 20-20-20 timer in your browser and the Ocufuse focus timer.
 - [Vision changes with age: what's common, what to check](https://ocufuse.com/blog/vision-changes-with-age): Reading glasses and slower adjustment to the dark are common with age. Changes eye care bodies describe, and how often to get checked.
 - [How to put in eye drops: a step-by-step guide](https://ocufuse.com/blog/how-to-put-in-eye-drops): The eye drop technique the American Academy of Ophthalmology describes, a lying-down method for nervous blinkers, and tips for children.
 - [Eye safety at home: DIY, cleaning and the garden](https://ocufuse.com/blog/eye-safety-at-home): Nearly half of eye injuries happen at home. Everyday jobs that put eyes at risk, simple protective habits, and first steps after an injury.

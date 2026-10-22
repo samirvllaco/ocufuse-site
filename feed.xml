@@ -6,7 +6,28 @@
     <atom:link href="https://ocufuse.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Practical guides on eye exercises, eye symptoms and preparing for eye appointments.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 07:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 07:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Stretchly alternative: break reminders with an eye journal</title>
+      <link>https://ocufuse.com/blog/stretchly-alternative</link>
+      <guid isPermaLink="true">https://ocufuse.com/blog/stretchly-alternative</guid>
+      <pubDate>Thu, 22 Oct 2026 07:00:00 GMT</pubDate>
+      <description>Stretchly is a free, open source break reminder. When a browser timer or the Ocufuse web app may suit you better, and how they compare.</description>
+    </item>
+    <item>
+      <title>LookAway alternative for Windows, Chromebook or any browser</title>
+      <link>https://ocufuse.com/blog/lookaway-alternative</link>
+      <guid isPermaLink="true">https://ocufuse.com/blog/lookaway-alternative</guid>
+      <pubDate>Thu, 22 Oct 2026 07:00:00 GMT</pubDate>
+      <description>LookAway is a paid Mac break app. If you're on Windows, a Chromebook or a work laptop, here are alternatives, including a free 20-20-20 timer in your browser.</description>
+    </item>
+    <item>
+      <title>Eye break apps compared: LookAway, Stretchly and browser timers</title>
+      <link>https://ocufuse.com/blog/best-eye-break-apps</link>
+      <guid isPermaLink="true">https://ocufuse.com/blog/best-eye-break-apps</guid>
+      <pubDate>Thu, 22 Oct 2026 07:00:00 GMT</pubDate>
+      <description>Four ways to get screen break reminders: LookAway for Mac, Stretchly for any computer, a free 20-20-20 timer in your browser and the Ocufuse focus timer.</description>
+    </item>
     <item>
       <title>Vision changes with age: what's common, what to check</title>
       <link>https://ocufuse.com/blog/vision-changes-with-age</link>
