@@ -7,7 +7,7 @@
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-victory-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/mascot-photos-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-tools.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/tools/screen-break-timer</loc>
@@ -21,7 +21,7 @@
     <image:image><image:loc>https://ocufuse.com/mascot-sit-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/mascot-neck-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/mascot-stretch-up-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/og-screen-break-timer.png</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-screen-break-timer.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/tools/eye-photo-journal</loc>
@@ -32,7 +32,7 @@
     <image:image><image:loc>https://ocufuse.com/ocu-magnifier-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-tablet-progress-light.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-tablet-progress-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-eye-photo-journal.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/eye-tracking-journal</loc>
@@ -47,7 +47,7 @@
     <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-light.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-desktop-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/mascot-photos-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-home.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/eye-wellness</loc>
@@ -79,7 +79,7 @@
     <lastmod>2026-10-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
-    <image:image><image:loc>https://ocufuse.com/og-visual-memory.png</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-visual-memory.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/tools/monitor-distance</loc>
@@ -87,7 +87,7 @@
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/mascot-frame-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/og-monitor-distance.png</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-monitor-distance.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/tools/text-size</loc>
@@ -96,7 +96,7 @@
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/mascot-book-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/og-text-size.png</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-text-size.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/tools/appointment-questions</loc>
@@ -105,7 +105,7 @@
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/mascot-folder-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/og-appointment-questions.png</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-appointment-questions.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/editorial-policy</loc>
@@ -116,7 +116,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image><image:loc>https://ocufuse.com/mascot-photos-240.webp</image:loc></image:image>
@@ -134,14 +134,14 @@
     <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-desktop-today-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-home.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/clinicians</loc>
     <lastmod>2026-10-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-clinicians.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/guides</loc>
@@ -203,7 +203,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/sitemap</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
@@ -277,7 +277,7 @@
     <priority>1.0</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-victory-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/mascot-reading-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-plus.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/games</loc>
@@ -285,28 +285,28 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-tiles-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/og-games.png</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-games.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/games/shade-hunt</loc>
     <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <image:image><image:loc>https://ocufuse.com/og-shade-hunt.png</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-shade-hunt.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/games/dot-chase</loc>
     <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <image:image><image:loc>https://ocufuse.com/og-dot-chase.png</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-dot-chase.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/games/edge-spot</loc>
     <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <image:image><image:loc>https://ocufuse.com/og-edge-spot.png</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-edge-spot.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/app</loc>
@@ -316,7 +316,7 @@
     <image:image><image:loc>https://ocufuse.com/shot-today-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-progress-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-app.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/contact</loc>
@@ -341,7 +341,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-quiet-240.webp</image:loc></image:image>
@@ -450,6 +450,13 @@
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/mascot-photos-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/blog/blurry-distance-vision-after-computer</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/og-blog-blurry-distance-vision-after-computer.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/blog/contact-lenses-dry-at-the-computer</loc>

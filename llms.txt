@@ -76,6 +76,7 @@
 - [Registro dos exercícios para os olhos prescritos](https://ocufuse.com/pt/exercicios-para-os-olhos/registro-de-exercicios): O que anotar quando você faz em casa os exercícios para os olhos prescritos, um formato de registro simples e como levá-lo ao ortoptista ou optometrista.
 
 ## Blog
+- [Why is far away blurry after a long day at the computer?](https://ocufuse.com/blog/blurry-distance-vision-after-computer): Hours of close screen focus can leave distance vision a little blurry for a while. What eye care groups say about it and when to book an exam.
 - [Why do my contacts feel dry when I work at a computer?](https://ocufuse.com/blog/contact-lenses-dry-at-the-computer): People blink about half as often at a screen, and a lens on a less wet eye dries out faster. What eye care groups suggest for long screen days.
 - [Stretchly alternative: break reminders with an eye journal](https://ocufuse.com/blog/stretchly-alternative): Stretchly is a free, open source break reminder. When a browser timer or the Ocufuse web app may suit you better, and how they compare.
 - [LookAway alternative for Windows, Chromebook or any browser](https://ocufuse.com/blog/lookaway-alternative): LookAway is a paid Mac break app. If you're on Windows, a Chromebook or a work laptop, here are alternatives, including a free 20-20-20 timer in your browser.
