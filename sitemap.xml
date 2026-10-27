@@ -132,19 +132,25 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image><image:loc>https://ocufuse.com/mascot-photos-240.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-today-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-today-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-today-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-today-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-progress-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-progress-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-brief-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-brief-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-learn-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-learn-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-magnifier-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/sample-brief-2.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/sample-brief-1.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/mascot-folder-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/sample-brief-3.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-today-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-today-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-victory-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-look-up-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/mascot-book-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og2-home.png</image:loc></image:image>
   </url>
   <url>
