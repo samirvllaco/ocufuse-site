@@ -120,10 +120,8 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image><image:loc>https://ocufuse.com/mascot-photos-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/ocu-reader-quiet-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-magnifier-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-tiles-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/ocu-look-up-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/mascot-clock-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/sample-brief-2.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/sample-brief-1.webp</image:loc></image:image>
@@ -132,6 +130,7 @@
     <image:image><image:loc>https://ocufuse.com/ocu-victory-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/mascot-book-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-240.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/ocu-look-up-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-desktop-today-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og2-home.png</image:loc></image:image>
