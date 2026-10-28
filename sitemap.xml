@@ -90,6 +90,102 @@
     <image:image><image:loc>https://ocufuse.com/og2-visual-memory.png</image:loc></image:image>
   </url>
   <url>
+    <loc>https://ocufuse.com/games/sixty-hits</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-games.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/games/shrink-shot</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-games.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/games/start-lights</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-games.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/games/line-judge</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-games.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/games/ink-not-word</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-games.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/games/typo-hunt</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-games.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/games/hue-sort</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-games.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/games/look-away-bingo</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-games.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/games/flash-grid</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-games.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/games/pipe-turn</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-games.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/games/peekaboo-pals</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-games.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/games/clock-set</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og2-games.png</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://ocufuse.com/tools/monitor-distance</loc>
     <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
@@ -180,7 +276,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/support</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
@@ -290,7 +386,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/faq</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
@@ -317,7 +413,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/games/shade-hunt</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
@@ -325,7 +421,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/games/dot-chase</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
@@ -333,7 +429,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/games/edge-spot</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>

@@ -11,7 +11,7 @@
 
 ## Free eye games
 - [Visual Memory: a free tile sequence game](https://ocufuse.com/games/visual-memory): Watch tiles light up one after another, then tap them back in the same order. A free memory game for screen breaks, and each round adds one tile.
-- [Free eye games you can play in your browser](https://ocufuse.com/games): Four free browser games for screen breaks: Shade Hunt, Dot Chase, Edge Spot and Visual Memory. No download, free with your email, on phone or computer.
+- [Free eye games you can play in your browser](https://ocufuse.com/games): 16 free browser games for screen breaks in eight categories: aim, sport, focus, calm, screen breaks, puzzles, kids and easy pace. No download.
 - [Shade Hunt: find the odd tile, a free screen-break game](https://ocufuse.com/games/shade-hunt): Find the one tile in a different color. A free 60-second browser game for screen breaks: the grid grows as the shades get closer. Free with email.
 - [Dot Chase: follow the dot, a free screen-break game](https://ocufuse.com/games/dot-chase): Follow the moving dot with your eyes and catch it when it changes colour. A free two-minute follow-the-dot game for screen breaks, on phone or computer.
 - [Edge Spot: watch the edges, a free screen-break game](https://ocufuse.com/games/edge-spot): Keep your eyes on the centre cross and spot the diamond that flashes at the edges. A free centre and edges game for screen breaks, with six levels.
