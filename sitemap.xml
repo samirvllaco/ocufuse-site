@@ -128,7 +128,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image><image:loc>https://ocufuse.com/mascot-photos-240.webp</image:loc></image:image>
@@ -223,7 +223,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/sitemap</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
@@ -379,7 +379,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-quiet-240.webp</image:loc></image:image>
@@ -502,6 +502,14 @@
     <image:image><image:loc>https://ocufuse.com/mascot-photos-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/blog/is-an-e-reader-easier-on-the-eyes</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-blog-is-an-e-reader-easier-on-the-eyes.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/blog/blurry-distance-vision-after-computer</loc>
