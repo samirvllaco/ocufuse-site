@@ -135,10 +135,10 @@
     <image:image><image:loc>https://ocufuse.com/mascot-folder-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/sample-brief-3.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-victory-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/ocu-look-up-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-480.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/mascot-book-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-240.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/ocu-avatar-96.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-desktop-today-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
@@ -298,11 +298,10 @@
   </url>
   <url>
     <loc>https://ocufuse.com/plus</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-victory-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/ocu-look-up-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-480.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/mascot-reading-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og2-plus.png</image:loc></image:image>
