@@ -30,10 +30,10 @@
     <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
-    <image:image><image:loc>https://ocufuse.com/mascot-photos-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-magnifier-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-tablet-progress-light.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-tablet-progress-dark.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/mascot-photos-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og2-eye-photo-journal.png</image:loc></image:image>
   </url>
@@ -83,7 +83,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/games/visual-memory</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
@@ -94,16 +94,14 @@
     <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
-    <image:image><image:loc>https://ocufuse.com/mascot-frame-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og2-monitor-distance.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/tools/text-size</loc>
-    <lastmod>2026-10-19</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
-    <image:image><image:loc>https://ocufuse.com/mascot-book-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og2-text-size.png</image:loc></image:image>
@@ -113,7 +111,6 @@
     <lastmod>2026-10-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
-    <image:image><image:loc>https://ocufuse.com/mascot-folder-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og2-appointment-questions.png</image:loc></image:image>
