@@ -247,6 +247,8 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image><image:loc>https://ocufuse.com/mascot-photos-240.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-today-light.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/shot-desktop-today-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-today-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-progress-dark.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/shot-practice-dark.webp</image:loc></image:image>
@@ -264,8 +266,6 @@
     <image:image><image:loc>https://ocufuse.com/bp-blurry-distance-vision-after-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lenses-dry-at-the-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-best-eye-break-apps-640.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/bp-lookaway-alternative-640.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/bp-stretchly-alternative-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og2-home.png</image:loc></image:image>
   </url>
   <url>
