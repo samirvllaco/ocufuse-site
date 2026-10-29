@@ -23,6 +23,7 @@
     <image:image><image:loc>https://ocufuse.com/mascot-neck-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/mascot-stretch-up-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-20-20-20-rule-what-the-research-found-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-often-to-take-a-break-from-the-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-do-on-a-screen-break-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-often-do-you-blink-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
@@ -90,6 +91,7 @@
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-do-on-a-screen-break-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-often-to-take-a-break-from-the-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-gaming-and-your-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-20-20-20-rule-what-the-research-found-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-often-do-you-blink-640.webp</image:loc></image:image>
@@ -223,8 +225,11 @@
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-240.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-describe-vision-changes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-what-happens-during-an-eye-exam-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-tell-your-eye-doctor-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-preparing-for-an-eye-appointment-when-symptoms-come-and-go-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-optometrist-vs-ophthalmologist-vs-optician-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og2-appointment-questions.png</image:loc></image:image>
   </url>
@@ -257,10 +262,10 @@
     <image:image><image:loc>https://ocufuse.com/bp-is-an-e-reader-easier-on-the-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-blurry-distance-vision-after-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lenses-dry-at-the-computer-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-best-eye-break-apps-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-lookaway-alternative-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-stretchly-alternative-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/ocu-avatar-96.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/shot-desktop-today-dark.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og2-home.png</image:loc></image:image>
   </url>
   <url>
@@ -444,7 +449,9 @@
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-color-blindness-explained-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-do-on-a-screen-break-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-often-to-take-a-break-from-the-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-gaming-and-your-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-screen-glare-and-brightness-at-your-desk-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
@@ -457,7 +464,9 @@
     <priority>0.8</priority>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-do-on-a-screen-break-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-gaming-and-your-eyes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-often-to-take-a-break-from-the-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-20-20-20-rule-what-the-research-found-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-the-eye-works-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og2-dot-chase.png</image:loc></image:image>
   </url>
@@ -466,8 +475,11 @@
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-the-blind-spot-in-your-eye-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-do-on-a-screen-break-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-gaming-and-your-eyes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-often-to-take-a-break-from-the-computer-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-the-eye-works-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og2-edge-spot.png</image:loc></image:image>
   </url>
@@ -514,7 +526,11 @@
     <image:image><image:loc>https://ocufuse.com/bp-is-an-e-reader-easier-on-the-eyes-1280.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-blurry-distance-vision-after-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lenses-dry-at-the-computer-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-lookaway-alternative-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-stretchly-alternative-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-do-on-a-screen-break-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-puffy-eyes-in-the-morning-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-best-eye-break-apps-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-far-should-your-monitor-be-from-your-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-using-your-phone-in-the-dark-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-gaming-and-your-eyes-640.webp</image:loc></image:image>
@@ -535,7 +551,11 @@
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-using-your-phone-in-the-dark-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-puffy-eyes-in-the-morning-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-in-the-morning-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-is-dark-mode-better-for-your-eyes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-blurry-vision-in-the-morning-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-crusty-eyes-in-the-morning-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-sleep-screens-and-tired-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
@@ -546,7 +566,12 @@
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lenses-dry-at-the-computer-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-in-the-morning-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-put-in-eye-drops-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-in-winter-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-often-do-you-blink-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-why-are-my-eyes-watering-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-when-flying-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-at-work-desk-and-day-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-to-keep-a-dry-eye-diary-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
@@ -560,19 +585,23 @@
     <image:image><image:loc>https://ocufuse.com/bp-is-an-e-reader-easier-on-the-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-blurry-distance-vision-after-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lenses-dry-at-the-computer-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-best-eye-break-apps-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-lookaway-alternative-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-stretchly-alternative-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-far-should-your-monitor-be-from-your-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-using-your-phone-in-the-dark-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-gaming-and-your-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-do-on-a-screen-break-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-screen-time-and-childrens-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-is-dark-mode-better-for-your-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-is-sitting-close-to-the-tv-bad-for-your-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-often-do-you-blink-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-screen-glare-and-brightness-at-your-desk-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-often-to-take-a-break-from-the-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-20-20-20-rule-what-the-research-found-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-do-blue-light-glasses-help-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-sleep-screens-and-tired-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-screen-eye-strain-what-helps-640.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
@@ -580,9 +609,15 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-best-eye-break-apps-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-lookaway-alternative-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-stretchly-alternative-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-do-on-a-screen-break-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-can-eye-strain-cause-headaches-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-screen-glare-and-brightness-at-your-desk-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-often-to-take-a-break-from-the-computer-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-rubbing-your-eyes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-night-driving-glare-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-20-20-20-rule-what-the-research-found-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-sleep-screens-and-tired-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-screen-eye-strain-what-helps-640.webp</image:loc></image:image>
@@ -594,6 +629,7 @@
     <lastmod>2026-10-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-why-eyes-look-red-in-flash-photos-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-drooping-eyelid-what-to-record-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-photographing-your-childs-eyes-for-the-eye-doctor-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-to-take-consistent-eye-photos-640.webp</image:loc></image:image>
@@ -606,6 +642,12 @@
     <lastmod>2026-10-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-what-happens-during-an-eye-exam-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-optometrist-vs-ophthalmologist-vs-optician-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-describe-vision-changes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-when-should-a-child-have-an-eye-exam-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-long-does-eye-dilation-last-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-family-eye-health-history-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-often-should-you-get-your-eyes-checked-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-tell-your-eye-doctor-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-double-vision-that-comes-and-goes-640.webp</image:loc></image:image>
@@ -620,7 +662,14 @@
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-blurry-distance-vision-after-computer-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-puffy-eyes-in-the-morning-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-can-eye-strain-cause-headaches-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-floaters-what-they-are-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-blurry-vision-in-the-morning-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-crusty-eyes-in-the-morning-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-why-are-my-eyes-watering-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-feels-like-something-in-your-eye-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-allergies-in-pollen-season-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-eye-twitching-that-wont-stop-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-drooping-eyelid-what-to-record-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-double-vision-that-comes-and-goes-640.webp</image:loc></image:image>
@@ -633,6 +682,9 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-screen-time-and-childrens-eyes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-when-should-a-child-have-an-eye-exam-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-signs-a-child-may-have-trouble-seeing-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-myopia-in-children-time-outdoors-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-photographing-your-childs-eyes-for-the-eye-doctor-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
@@ -644,6 +696,8 @@
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lenses-dry-at-the-computer-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-read-your-glasses-prescription-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-put-in-contact-lenses-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-do-blue-light-glasses-help-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lens-habits-infection-risk-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-reading-glasses-after-40-presbyopia-640.webp</image:loc></image:image>
@@ -656,7 +710,18 @@
     <lastmod>2026-10-17</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-moving-dots-when-you-look-at-the-sky-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-what-does-20-20-vision-mean-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-the-blind-spot-in-your-eye-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-why-eyes-look-red-in-flash-photos-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-nearsighted-vs-farsighted-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-why-pupils-change-size-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-can-your-eye-color-change-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-often-do-you-blink-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-the-eye-works-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-what-is-astigmatism-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-color-blindness-explained-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-myths-and-facts-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-why-eye-photos-look-different-day-to-day-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
@@ -666,6 +731,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-wildfire-smoke-and-your-eyes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-safety-at-home-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-swimming-and-your-eyes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-makeup-and-eye-hygiene-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-watching-a-solar-eclipse-safely-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-night-driving-glare-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-sunglasses-and-uv-choosing-a-pair-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
@@ -675,6 +746,8 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-vision-changes-with-age-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-family-eye-health-history-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-reading-glasses-after-40-presbyopia-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-diabetes-and-your-eyes-yearly-screening-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
@@ -829,6 +902,7 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-best-eye-break-apps-1280.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-best-eye-break-apps.png</image:loc></image:image>
   </url>
@@ -837,6 +911,7 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-lookaway-alternative-1280.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-lookaway-alternative.png</image:loc></image:image>
   </url>
@@ -845,6 +920,7 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-stretchly-alternative-1280.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-stretchly-alternative.png</image:loc></image:image>
   </url>
@@ -855,6 +931,7 @@
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-how-far-should-your-monitor-be-from-your-eyes-1280.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-screen-glare-and-brightness-at-your-desk-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-often-to-take-a-break-from-the-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-at-work-desk-and-day-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-gaming-and-your-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
@@ -868,6 +945,7 @@
     <image:image><image:loc>https://ocufuse.com/bp-using-your-phone-in-the-dark-1280.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-is-dark-mode-better-for-your-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-sleep-screens-and-tired-eyes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-myths-and-facts-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-do-blue-light-glasses-help-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-gaming-and-your-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
@@ -879,7 +957,9 @@
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-gaming-and-your-eyes-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-often-to-take-a-break-from-the-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-often-do-you-blink-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-screen-time-and-childrens-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-20-20-20-rule-what-the-research-found-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-screen-glare-and-brightness-at-your-desk-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
@@ -891,6 +971,7 @@
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-do-on-a-screen-break-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-often-to-take-a-break-from-the-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-often-do-you-blink-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-20-20-20-rule-what-the-research-found-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-eye-twitching-that-wont-stop-640.webp</image:loc></image:image>
@@ -902,8 +983,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-puffy-eyes-in-the-morning-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-crusty-eyes-in-the-morning-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-allergies-in-pollen-season-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-why-eye-photos-look-different-day-to-day-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-sleep-screens-and-tired-eyes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-rubbing-your-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-puffy-eyes-in-the-morning.png</image:loc></image:image>
   </url>
@@ -912,7 +997,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-moving-dots-when-you-look-at-the-sky-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-floaters-what-they-are-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-the-blind-spot-in-your-eye-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-the-eye-works-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-tell-your-eye-doctor-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-watching-a-solar-eclipse-safely-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-moving-dots-when-you-look-at-the-sky.png</image:loc></image:image>
   </url>
@@ -921,8 +1011,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-in-the-morning-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-blurry-vision-in-the-morning-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-to-keep-a-dry-eye-diary-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-in-winter-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-sleep-screens-and-tired-eyes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-why-are-my-eyes-watering-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-dry-eyes-in-the-morning.png</image:loc></image:image>
   </url>
@@ -931,8 +1025,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-wildfire-smoke-and-your-eyes-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-allergies-in-pollen-season-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-feels-like-something-in-your-eye-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-to-keep-a-dry-eye-diary-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-red-eye-when-to-see-a-doctor-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-when-flying-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-wildfire-smoke-and-your-eyes.png</image:loc></image:image>
   </url>
@@ -941,7 +1039,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-what-does-20-20-vision-mean-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-nearsighted-vs-farsighted-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-what-happens-during-an-eye-exam-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-read-your-glasses-prescription-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-often-should-you-get-your-eyes-checked-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-the-eye-works-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-what-does-20-20-vision-mean.png</image:loc></image:image>
   </url>
@@ -950,7 +1053,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-the-blind-spot-in-your-eye-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-the-eye-works-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-floaters-what-they-are-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-what-happens-during-an-eye-exam-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-often-should-you-get-your-eyes-checked-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-moving-dots-when-you-look-at-the-sky-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-the-blind-spot-in-your-eye.png</image:loc></image:image>
   </url>
@@ -959,9 +1067,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-why-eyes-look-red-in-flash-photos-1280.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-photographing-your-childs-eyes-for-the-eye-doctor-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-why-pupils-change-size-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-to-take-consistent-eye-photos-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-why-eye-photos-look-different-day-to-day-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-can-your-eye-color-change-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-why-eyes-look-red-in-flash-photos.png</image:loc></image:image>
   </url>
@@ -970,9 +1081,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-what-happens-during-an-eye-exam-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-long-does-eye-dilation-last-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-often-should-you-get-your-eyes-checked-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-tell-your-eye-doctor-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-diabetes-and-your-eyes-yearly-screening-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-optometrist-vs-ophthalmologist-vs-optician-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-what-happens-during-an-eye-exam.png</image:loc></image:image>
   </url>
@@ -981,8 +1095,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-read-your-glasses-prescription-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-nearsighted-vs-farsighted-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-what-is-astigmatism-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-reading-glasses-after-40-presbyopia-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-often-should-you-get-your-eyes-checked-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-optometrist-vs-ophthalmologist-vs-optician-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-how-to-read-your-glasses-prescription.png</image:loc></image:image>
   </url>
@@ -991,7 +1109,9 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-screen-time-and-childrens-eyes-1280.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-myopia-in-children-time-outdoors-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-signs-a-child-may-have-trouble-seeing-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-gaming-and-your-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-photographing-your-childs-eyes-for-the-eye-doctor-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-is-sitting-close-to-the-tv-bad-for-your-eyes-640.webp</image:loc></image:image>
@@ -1003,8 +1123,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-safety-at-home-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-feels-like-something-in-your-eye-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-watching-a-solar-eclipse-safely-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-sunglasses-and-uv-choosing-a-pair-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-red-eye-when-to-see-a-doctor-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-makeup-and-eye-hygiene-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-eye-safety-at-home.png</image:loc></image:image>
   </url>
@@ -1013,8 +1137,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-put-in-eye-drops-1280.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-at-work-desk-and-day-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-allergies-in-pollen-season-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-put-in-contact-lenses-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-to-keep-a-dry-eye-diary-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-when-flying-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-how-to-put-in-eye-drops.png</image:loc></image:image>
   </url>
@@ -1023,7 +1151,10 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-vision-changes-with-age-1280.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-reading-glasses-after-40-presbyopia-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-night-driving-glare-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-family-eye-health-history-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-often-should-you-get-your-eyes-checked-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-diabetes-and-your-eyes-yearly-screening-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
@@ -1049,7 +1180,11 @@
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-is-sitting-close-to-the-tv-bad-for-your-eyes-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-signs-a-child-may-have-trouble-seeing-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-screen-time-and-childrens-eyes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-myths-and-facts-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-myopia-in-children-time-outdoors-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-when-should-a-child-have-an-eye-exam-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-is-sitting-close-to-the-tv-bad-for-your-eyes.png</image:loc></image:image>
   </url>
@@ -1059,6 +1194,7 @@
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-can-eye-strain-cause-headaches-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-often-to-take-a-break-from-the-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-tell-your-eye-doctor-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-eye-twitching-that-wont-stop-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-gaming-and-your-eyes-640.webp</image:loc></image:image>
@@ -1070,7 +1206,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-floaters-what-they-are-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-moving-dots-when-you-look-at-the-sky-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-describe-vision-changes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-long-does-eye-dilation-last-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-tell-your-eye-doctor-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-vision-changes-with-age-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-eye-floaters-what-they-are.png</image:loc></image:image>
   </url>
@@ -1079,7 +1220,10 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-blurry-vision-in-the-morning-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-in-the-morning-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lens-habits-infection-risk-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-describe-vision-changes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-tell-your-eye-doctor-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-sleep-screens-and-tired-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
@@ -1090,8 +1234,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-crusty-eyes-in-the-morning-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-puffy-eyes-in-the-morning-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-red-eye-when-to-see-a-doctor-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-makeup-and-eye-hygiene-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lens-habits-infection-risk-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-rubbing-your-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-crusty-eyes-in-the-morning.png</image:loc></image:image>
   </url>
@@ -1100,8 +1248,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-in-winter-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-in-the-morning-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-when-flying-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-at-work-desk-and-day-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-to-keep-a-dry-eye-diary-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-why-are-my-eyes-watering-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-dry-eyes-in-winter.png</image:loc></image:image>
   </url>
@@ -1110,9 +1262,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-swimming-and-your-eyes-1280.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lens-habits-infection-risk-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-put-in-contact-lenses-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-sunglasses-and-uv-choosing-a-pair-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-red-eye-when-to-see-a-doctor-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-safety-at-home-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-swimming-and-your-eyes.png</image:loc></image:image>
   </url>
@@ -1121,8 +1276,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-nearsighted-vs-farsighted-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-what-is-astigmatism-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-read-your-glasses-prescription-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-myopia-in-children-time-outdoors-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-reading-glasses-after-40-presbyopia-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-what-does-20-20-vision-mean-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-nearsighted-vs-farsighted.png</image:loc></image:image>
   </url>
@@ -1131,7 +1290,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-why-pupils-change-size-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-long-does-eye-dilation-last-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-why-eyes-look-red-in-flash-photos-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-the-eye-works-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-why-eye-photos-look-different-day-to-day-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-the-blind-spot-in-your-eye-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-why-pupils-change-size.png</image:loc></image:image>
   </url>
@@ -1140,9 +1304,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-can-your-eye-color-change-1280.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-why-eye-photos-look-different-day-to-day-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-the-eye-works-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-to-take-consistent-eye-photos-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-photographing-your-childs-eyes-for-the-eye-doctor-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-why-pupils-change-size-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-can-your-eye-color-change.png</image:loc></image:image>
   </url>
@@ -1151,8 +1318,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-optometrist-vs-ophthalmologist-vs-optician-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-what-happens-during-an-eye-exam-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-often-should-you-get-your-eyes-checked-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-describe-vision-changes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-tell-your-eye-doctor-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-family-eye-health-history-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-optometrist-vs-ophthalmologist-vs-optician.png</image:loc></image:image>
   </url>
@@ -1161,9 +1332,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-describe-vision-changes-1280.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-tell-your-eye-doctor-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-preparing-for-an-eye-appointment-when-symptoms-come-and-go-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-floaters-what-they-are-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-double-vision-that-comes-and-goes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-blurry-vision-in-the-morning-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-how-to-describe-vision-changes.png</image:loc></image:image>
   </url>
@@ -1172,8 +1346,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-when-should-a-child-have-an-eye-exam-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-signs-a-child-may-have-trouble-seeing-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-photographing-your-childs-eyes-for-the-eye-doctor-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-long-does-eye-dilation-last-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-myopia-in-children-time-outdoors-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-screen-time-and-childrens-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-when-should-a-child-have-an-eye-exam.png</image:loc></image:image>
   </url>
@@ -1182,7 +1360,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-makeup-and-eye-hygiene-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-crusty-eyes-in-the-morning-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-put-in-contact-lenses-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lens-habits-infection-risk-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-rubbing-your-eyes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-put-in-eye-drops-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-eye-makeup-and-eye-hygiene.png</image:loc></image:image>
   </url>
@@ -1191,8 +1374,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-put-in-contact-lenses-1280.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lens-habits-infection-risk-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-makeup-and-eye-hygiene-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-swimming-and-your-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-red-eye-when-to-see-a-doctor-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-put-in-eye-drops-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-how-to-put-in-contact-lenses.png</image:loc></image:image>
   </url>
@@ -1201,7 +1388,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-watching-a-solar-eclipse-safely-1280.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-sunglasses-and-uv-choosing-a-pair-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-safety-at-home-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-myths-and-facts-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-describe-vision-changes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-the-eye-works-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-watching-a-solar-eclipse-safely.png</image:loc></image:image>
   </url>
@@ -1237,6 +1429,7 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-how-often-to-take-a-break-from-the-computer-1280.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-do-on-a-screen-break-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-20-20-20-rule-what-the-research-found-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-far-should-your-monitor-be-from-your-eyes-640.webp</image:loc></image:image>
@@ -1249,7 +1442,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-why-are-my-eyes-watering-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-in-winter-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-allergies-in-pollen-season-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-feels-like-something-in-your-eye-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-to-keep-a-dry-eye-diary-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-wildfire-smoke-and-your-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-why-are-my-eyes-watering.png</image:loc></image:image>
   </url>
@@ -1258,8 +1456,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-feels-like-something-in-your-eye-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-safety-at-home-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-rubbing-your-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-at-work-desk-and-day-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lens-habits-infection-risk-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-blurry-vision-in-the-morning-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-feels-like-something-in-your-eye.png</image:loc></image:image>
   </url>
@@ -1268,7 +1470,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-allergies-in-pollen-season-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-why-are-my-eyes-watering-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-rubbing-your-eyes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-put-in-eye-drops-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-red-eye-when-to-see-a-doctor-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-wildfire-smoke-and-your-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-eye-allergies-in-pollen-season.png</image:loc></image:image>
   </url>
@@ -1277,8 +1484,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-when-flying-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-in-winter-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lens-habits-infection-risk-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-put-in-eye-drops-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-at-work-desk-and-day-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-wildfire-smoke-and-your-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-dry-eyes-when-flying.png</image:loc></image:image>
   </url>
@@ -1287,7 +1498,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-how-the-eye-works-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-what-does-20-20-vision-mean-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-the-blind-spot-in-your-eye-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-why-pupils-change-size-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-why-eye-photos-look-different-day-to-day-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-color-blindness-explained-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-how-the-eye-works.png</image:loc></image:image>
   </url>
@@ -1296,7 +1512,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-what-is-astigmatism-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-nearsighted-vs-farsighted-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-read-your-glasses-prescription-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-night-driving-glare-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-tell-your-eye-doctor-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-what-does-20-20-vision-mean-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-what-is-astigmatism.png</image:loc></image:image>
   </url>
@@ -1305,7 +1526,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-color-blindness-explained-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-myths-and-facts-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-signs-a-child-may-have-trouble-seeing-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-the-eye-works-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-photographing-your-childs-eyes-for-the-eye-doctor-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-why-eyes-look-red-in-flash-photos-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-color-blindness-explained.png</image:loc></image:image>
   </url>
@@ -1314,9 +1540,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-myths-and-facts-1280.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-is-sitting-close-to-the-tv-bad-for-your-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-using-your-phone-in-the-dark-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-color-blindness-explained-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-do-blue-light-glasses-help-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-watching-a-solar-eclipse-safely-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-eye-myths-and-facts.png</image:loc></image:image>
   </url>
@@ -1325,7 +1554,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-how-long-does-eye-dilation-last-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-what-happens-during-an-eye-exam-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-why-pupils-change-size-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-when-should-a-child-have-an-eye-exam-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-diabetes-and-your-eyes-yearly-screening-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-optometrist-vs-ophthalmologist-vs-optician-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-how-long-does-eye-dilation-last.png</image:loc></image:image>
   </url>
@@ -1334,8 +1568,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-family-eye-health-history-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-what-happens-during-an-eye-exam-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-often-should-you-get-your-eyes-checked-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-vision-changes-with-age-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-diabetes-and-your-eyes-yearly-screening-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-read-your-glasses-prescription-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-family-eye-health-history.png</image:loc></image:image>
   </url>
@@ -1344,7 +1582,10 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-signs-a-child-may-have-trouble-seeing-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-when-should-a-child-have-an-eye-exam-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-is-sitting-close-to-the-tv-bad-for-your-eyes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-screen-time-and-childrens-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-myopia-in-children-time-outdoors-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-photographing-your-childs-eyes-for-the-eye-doctor-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
@@ -1355,7 +1596,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-rubbing-your-eyes-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-allergies-in-pollen-season-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-feels-like-something-in-your-eye-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-crusty-eyes-in-the-morning-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-red-eye-when-to-see-a-doctor-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-makeup-and-eye-hygiene-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-rubbing-your-eyes.png</image:loc></image:image>
   </url>
@@ -1364,6 +1610,10 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-night-driving-glare-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-vision-changes-with-age-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-what-is-astigmatism-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-in-winter-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-reading-glasses-after-40-presbyopia-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-often-should-you-get-your-eyes-checked-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
@@ -1375,6 +1625,7 @@
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-20-20-20-rule-what-the-research-found-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-often-to-take-a-break-from-the-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-do-on-a-screen-break-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-often-do-you-blink-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-do-blue-light-glasses-help-640.webp</image:loc></image:image>
@@ -1402,7 +1653,9 @@
     <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-at-work-desk-and-day-1280.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-far-should-your-monitor-be-from-your-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-often-do-you-blink-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-in-winter-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-to-keep-a-dry-eye-diary-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-why-are-my-eyes-watering-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-dry-eyes-at-work-desk-and-day.png</image:loc></image:image>
   </url>
@@ -1412,6 +1665,10 @@
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lens-habits-infection-risk-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-put-in-contact-lenses-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-swimming-and-your-eyes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-when-flying-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-makeup-and-eye-hygiene-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-red-eye-when-to-see-a-doctor-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-contact-lens-habits-infection-risk.png</image:loc></image:image>
@@ -1422,6 +1679,9 @@
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-how-often-should-you-get-your-eyes-checked-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-what-happens-during-an-eye-exam-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-family-eye-health-history-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-optometrist-vs-ophthalmologist-vs-optician-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-diabetes-and-your-eyes-yearly-screening-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-tell-your-eye-doctor-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
@@ -1433,6 +1693,10 @@
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-myopia-in-children-time-outdoors-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-screen-time-and-childrens-eyes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-nearsighted-vs-farsighted-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-when-should-a-child-have-an-eye-exam-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-signs-a-child-may-have-trouble-seeing-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-is-sitting-close-to-the-tv-bad-for-your-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-myopia-in-children-time-outdoors.png</image:loc></image:image>
@@ -1443,6 +1707,10 @@
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-reading-glasses-after-40-presbyopia-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-vision-changes-with-age-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-read-your-glasses-prescription-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-nearsighted-vs-farsighted-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-night-driving-glare-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-often-should-you-get-your-eyes-checked-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-reading-glasses-after-40-presbyopia.png</image:loc></image:image>
@@ -1453,6 +1721,10 @@
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-sunglasses-and-uv-choosing-a-pair-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-watching-a-solar-eclipse-safely-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-swimming-and-your-eyes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-safety-at-home-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-night-driving-glare-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-myopia-in-children-time-outdoors-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-sunglasses-and-uv-choosing-a-pair.png</image:loc></image:image>
@@ -1473,7 +1745,9 @@
     <image:image><image:loc>https://ocufuse.com/scene-sleep-review-480.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-using-your-phone-in-the-dark-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-is-dark-mode-better-for-your-eyes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-in-the-morning-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-do-blue-light-glasses-help-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-puffy-eyes-in-the-morning-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-sleep-screens-and-tired-eyes.png</image:loc></image:image>
   </url>
@@ -1483,7 +1757,11 @@
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-diabetes-and-your-eyes-yearly-screening-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-what-happens-during-an-eye-exam-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-family-eye-health-history-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-vision-changes-with-age-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-often-should-you-get-your-eyes-checked-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-long-does-eye-dilation-last-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-diabetes-and-your-eyes-yearly-screening.png</image:loc></image:image>
   </url>
@@ -1495,6 +1773,7 @@
     <image:image><image:loc>https://ocufuse.com/bp-eye-twitching-that-wont-stop-1280.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-preparing-for-an-eye-appointment-when-symptoms-come-and-go-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-sleep-screens-and-tired-eyes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-often-to-take-a-break-from-the-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-eye-twitching-that-wont-stop.png</image:loc></image:image>
   </url>
@@ -1505,6 +1784,7 @@
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-how-to-keep-a-dry-eye-diary-1280.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-tell-your-eye-doctor-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-in-the-morning-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-dry-eyes-at-work-desk-and-day-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-how-to-keep-a-dry-eye-diary.png</image:loc></image:image>
@@ -1517,6 +1797,8 @@
     <image:image><image:loc>https://ocufuse.com/bp-what-to-tell-your-eye-doctor-1280.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-preparing-for-an-eye-appointment-when-symptoms-come-and-go-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-to-take-consistent-eye-photos-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-describe-vision-changes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-what-happens-during-an-eye-exam-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-what-to-tell-your-eye-doctor.png</image:loc></image:image>
   </url>
@@ -1529,6 +1811,8 @@
     <image:image><image:loc>https://ocufuse.com/bp-how-to-take-consistent-eye-photos-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-why-eye-photos-look-different-day-to-day-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-tell-your-eye-doctor-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-describe-vision-changes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-vision-changes-with-age-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-drooping-eyelid-what-to-record.png</image:loc></image:image>
   </url>
@@ -1540,6 +1824,7 @@
     <image:image><image:loc>https://ocufuse.com/bp-double-vision-that-comes-and-goes-1280.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-tell-your-eye-doctor-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-preparing-for-an-eye-appointment-when-symptoms-come-and-go-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-describe-vision-changes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-drooping-eyelid-what-to-record-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-double-vision-that-comes-and-goes.png</image:loc></image:image>
@@ -1553,6 +1838,8 @@
     <image:image><image:loc>https://ocufuse.com/bp-what-to-tell-your-eye-doctor-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-to-keep-a-dry-eye-diary-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-preparing-for-an-eye-appointment-when-symptoms-come-and-go-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-eye-allergies-in-pollen-season-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-crusty-eyes-in-the-morning-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-red-eye-when-to-see-a-doctor.png</image:loc></image:image>
   </url>
@@ -1564,6 +1851,8 @@
     <image:image><image:loc>https://ocufuse.com/bp-photographing-your-childs-eyes-for-the-eye-doctor-1280.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-to-take-consistent-eye-photos-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-tell-your-eye-doctor-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-when-should-a-child-have-an-eye-exam-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-signs-a-child-may-have-trouble-seeing-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-photographing-your-childs-eyes-for-the-eye-doctor.png</image:loc></image:image>
   </url>
@@ -1576,6 +1865,8 @@
     <image:image><image:loc>https://ocufuse.com/bp-why-eye-photos-look-different-day-to-day-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-photographing-your-childs-eyes-for-the-eye-doctor-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-drooping-eyelid-what-to-record-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-why-eyes-look-red-in-flash-photos-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-can-your-eye-color-change-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-how-to-take-consistent-eye-photos.png</image:loc></image:image>
   </url>
@@ -1588,6 +1879,8 @@
     <image:image><image:loc>https://ocufuse.com/bp-what-to-tell-your-eye-doctor-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-to-keep-a-dry-eye-diary-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-double-vision-that-comes-and-goes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-to-describe-vision-changes-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-what-happens-during-an-eye-exam-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-preparing-for-an-eye-appointment-when-symptoms-come-and-go.png</image:loc></image:image>
   </url>
@@ -1600,6 +1893,8 @@
     <image:image><image:loc>https://ocufuse.com/bp-how-to-take-consistent-eye-photos-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-drooping-eyelid-what-to-record-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-red-eye-when-to-see-a-doctor-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-why-pupils-change-size-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-can-your-eye-color-change-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-blog-why-eye-photos-look-different-day-to-day.png</image:loc></image:image>
   </url>
