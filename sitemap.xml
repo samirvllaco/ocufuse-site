@@ -260,12 +260,12 @@
     <image:image><image:loc>https://ocufuse.com/mascot-folder-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/sample-brief-3.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-victory-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-480.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/mascot-book-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-is-an-e-reader-easier-on-the-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-blurry-distance-vision-after-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lenses-dry-at-the-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-best-eye-break-apps-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-lookaway-alternative-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og2-home.png</image:loc></image:image>
   </url>
   <url>
@@ -431,7 +431,6 @@
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-victory-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/ocu-reader-smile-480.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/mascot-reading-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og2-plus.png</image:loc></image:image>
   </url>
