@@ -243,7 +243,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image><image:loc>https://ocufuse.com/mascot-photos-240.webp</image:loc></image:image>
@@ -261,11 +261,11 @@
     <image:image><image:loc>https://ocufuse.com/sample-brief-3.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-victory-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/mascot-book-240.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-do-i-need-computer-glasses-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-is-an-e-reader-easier-on-the-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-blurry-distance-vision-after-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lenses-dry-at-the-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-best-eye-break-apps-640.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/bp-lookaway-alternative-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og2-home.png</image:loc></image:image>
   </url>
   <url>
@@ -349,7 +349,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/sitemap</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
@@ -502,7 +502,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/partners</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-sleep-screens-and-tired-eyes-640.webp</image:loc></image:image>
@@ -532,27 +532,27 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-quiet-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/bp-is-an-e-reader-easier-on-the-eyes-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-do-i-need-computer-glasses-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-is-an-e-reader-easier-on-the-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-blurry-distance-vision-after-computer-640.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/bp-contact-lenses-dry-at-the-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-lookaway-alternative-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-stretchly-alternative-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-do-on-a-screen-break-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-puffy-eyes-in-the-morning-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-contact-lenses-dry-at-the-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-best-eye-break-apps-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-far-should-your-monitor-be-from-your-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-using-your-phone-in-the-dark-640.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/bp-gaming-and-your-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/blog/topics</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
@@ -560,7 +560,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/topic/sleep</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-using-your-phone-in-the-dark-640.webp</image:loc></image:image>
@@ -575,7 +575,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/topic/dry-eyes</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lenses-dry-at-the-computer-640.webp</image:loc></image:image>
@@ -592,9 +592,10 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/topic/screens</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-do-i-need-computer-glasses-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-is-an-e-reader-easier-on-the-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-blurry-distance-vision-after-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lenses-dry-at-the-computer-640.webp</image:loc></image:image>
@@ -614,12 +615,11 @@
     <image:image><image:loc>https://ocufuse.com/bp-20-20-20-rule-what-the-research-found-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-do-blue-light-glasses-help-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-sleep-screens-and-tired-eyes-640.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/bp-screen-eye-strain-what-helps-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/blog/topic/eye-comfort</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-best-eye-break-apps-640.webp</image:loc></image:image>
@@ -639,7 +639,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/topic/eye-photos</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-why-eyes-look-red-in-flash-photos-640.webp</image:loc></image:image>
@@ -652,7 +652,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/topic/appointments</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-what-happens-during-an-eye-exam-640.webp</image:loc></image:image>
@@ -671,7 +671,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/topic/symptoms</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-blurry-distance-vision-after-computer-640.webp</image:loc></image:image>
@@ -692,7 +692,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/topic/children</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-screen-time-and-childrens-eyes-640.webp</image:loc></image:image>
@@ -705,9 +705,10 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/topic/glasses-and-contacts</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-do-i-need-computer-glasses-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lenses-dry-at-the-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-to-read-your-glasses-prescription-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-to-put-in-contact-lenses-640.webp</image:loc></image:image>
@@ -720,7 +721,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/topic/how-eyes-work</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-moving-dots-when-you-look-at-the-sky-640.webp</image:loc></image:image>
@@ -741,7 +742,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/topic/eye-safety</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-wildfire-smoke-and-your-eyes-640.webp</image:loc></image:image>
@@ -756,7 +757,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/topic/ageing-eyes</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-vision-changes-with-age-640.webp</image:loc></image:image>
@@ -884,8 +885,17 @@
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
+    <loc>https://ocufuse.com/blog/do-i-need-computer-glasses</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-do-i-need-computer-glasses-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-blog-do-i-need-computer-glasses.png</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://ocufuse.com/blog/is-an-e-reader-easier-on-the-eyes</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-is-an-e-reader-easier-on-the-eyes-1280.webp</image:loc></image:image>
@@ -894,7 +904,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/blurry-distance-vision-after-computer</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-blurry-distance-vision-after-computer-1280.webp</image:loc></image:image>
@@ -903,7 +913,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/contact-lenses-dry-at-the-computer</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lenses-dry-at-the-computer-1280.webp</image:loc></image:image>
@@ -912,7 +922,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/best-eye-break-apps</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-best-eye-break-apps-1280.webp</image:loc></image:image>
@@ -921,7 +931,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/lookaway-alternative</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-lookaway-alternative-1280.webp</image:loc></image:image>
@@ -930,7 +940,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/stretchly-alternative</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-stretchly-alternative-1280.webp</image:loc></image:image>
@@ -939,7 +949,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/how-far-should-your-monitor-be-from-your-eyes</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-how-far-should-your-monitor-be-from-your-eyes-1280.webp</image:loc></image:image>
@@ -952,7 +962,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/using-your-phone-in-the-dark</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-using-your-phone-in-the-dark-1280.webp</image:loc></image:image>
@@ -966,7 +976,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/gaming-and-your-eyes</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-gaming-and-your-eyes-1280.webp</image:loc></image:image>
@@ -980,7 +990,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/what-to-do-on-a-screen-break</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-do-on-a-screen-break-1280.webp</image:loc></image:image>
@@ -1105,7 +1115,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/how-to-read-your-glasses-prescription</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-how-to-read-your-glasses-prescription-1280.webp</image:loc></image:image>
@@ -1119,7 +1129,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/screen-time-and-childrens-eyes</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-screen-time-and-childrens-eyes-1280.webp</image:loc></image:image>
@@ -1175,7 +1185,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/is-dark-mode-better-for-your-eyes</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-is-dark-mode-better-for-your-eyes-1280.webp</image:loc></image:image>
@@ -1189,7 +1199,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/is-sitting-close-to-the-tv-bad-for-your-eyes</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-is-sitting-close-to-the-tv-bad-for-your-eyes-1280.webp</image:loc></image:image>
@@ -1384,7 +1394,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/how-to-put-in-contact-lenses</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-how-to-put-in-contact-lenses-1280.webp</image:loc></image:image>
@@ -1412,7 +1422,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/how-often-do-you-blink</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-how-often-do-you-blink-1280.webp</image:loc></image:image>
@@ -1426,7 +1436,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/screen-glare-and-brightness-at-your-desk</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-screen-glare-and-brightness-at-your-desk-1280.webp</image:loc></image:image>
@@ -1439,7 +1449,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/how-often-to-take-a-break-from-the-computer</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-how-often-to-take-a-break-from-the-computer-1280.webp</image:loc></image:image>
@@ -1634,7 +1644,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/20-20-20-rule-what-the-research-found</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-20-20-20-rule-what-the-research-found-1280.webp</image:loc></image:image>
@@ -1647,7 +1657,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/do-blue-light-glasses-help</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-do-blue-light-glasses-help-1280.webp</image:loc></image:image>
@@ -1674,7 +1684,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/contact-lens-habits-infection-risk</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lens-habits-infection-risk-1280.webp</image:loc></image:image>
@@ -1716,7 +1726,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/reading-glasses-after-40-presbyopia</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-reading-glasses-after-40-presbyopia-1280.webp</image:loc></image:image>
@@ -1730,7 +1740,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/sunglasses-and-uv-choosing-a-pair</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-sunglasses-and-uv-choosing-a-pair-1280.webp</image:loc></image:image>
@@ -1744,7 +1754,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/sleep-screens-and-tired-eyes</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-sleep-screens-and-tired-eyes-1280.webp</image:loc></image:image>
