@@ -261,11 +261,11 @@
     <image:image><image:loc>https://ocufuse.com/sample-brief-3.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-victory-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/mascot-book-240.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-long-to-adjust-to-new-glasses-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-do-i-need-computer-glasses-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-is-an-e-reader-easier-on-the-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-blurry-distance-vision-after-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lenses-dry-at-the-computer-640.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/bp-best-eye-break-apps-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og2-home.png</image:loc></image:image>
   </url>
   <url>
@@ -536,17 +536,17 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-quiet-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/bp-do-i-need-computer-glasses-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-how-long-to-adjust-to-new-glasses-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-do-i-need-computer-glasses-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-is-an-e-reader-easier-on-the-eyes-640.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/bp-blurry-distance-vision-after-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-lookaway-alternative-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-stretchly-alternative-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-do-on-a-screen-break-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-puffy-eyes-in-the-morning-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-blurry-distance-vision-after-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lenses-dry-at-the-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-best-eye-break-apps-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-far-should-your-monitor-be-from-your-eyes-640.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/bp-using-your-phone-in-the-dark-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
@@ -708,6 +708,7 @@
     <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-how-long-to-adjust-to-new-glasses-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-do-i-need-computer-glasses-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lenses-dry-at-the-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-to-read-your-glasses-prescription-640.webp</image:loc></image:image>
@@ -883,6 +884,15 @@
     <image:image><image:loc>https://ocufuse.com/mascot-photos-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://ocufuse.com/blog/how-long-to-adjust-to-new-glasses</loc>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-how-long-to-adjust-to-new-glasses-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-blog-how-long-to-adjust-to-new-glasses.png</image:loc></image:image>
   </url>
   <url>
     <loc>https://ocufuse.com/blog/do-i-need-computer-glasses</loc>
