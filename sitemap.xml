@@ -263,9 +263,9 @@
     <image:image><image:loc>https://ocufuse.com/sample-brief-3.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/ocu-victory-240.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/mascot-book-240.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-do-i-need-to-wear-my-glasses-all-the-time-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-is-vr-bad-for-your-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-long-to-adjust-to-new-glasses-640.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/bp-do-i-need-computer-glasses-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/og2-home.png</image:loc></image:image>
   </url>
   <url>
@@ -544,13 +544,14 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://ocufuse.com/ocu-reader-quiet-240.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/bp-is-vr-bad-for-your-eyes-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-do-i-need-to-wear-my-glasses-all-the-time-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-is-vr-bad-for-your-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-long-to-adjust-to-new-glasses-640.webp</image:loc></image:image>
-    <image:image><image:loc>https://ocufuse.com/bp-do-i-need-computer-glasses-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-lookaway-alternative-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-stretchly-alternative-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-what-to-do-on-a-screen-break-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-puffy-eyes-in-the-morning-640.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/bp-do-i-need-computer-glasses-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-is-an-e-reader-easier-on-the-eyes-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-blurry-distance-vision-after-computer-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lenses-dry-at-the-computer-640.webp</image:loc></image:image>
@@ -716,6 +717,7 @@
     <lastmod>2026-10-31</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-do-i-need-to-wear-my-glasses-all-the-time-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-how-long-to-adjust-to-new-glasses-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-do-i-need-computer-glasses-640.webp</image:loc></image:image>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lenses-dry-at-the-computer-640.webp</image:loc></image:image>
@@ -894,6 +896,15 @@
     <image:image><image:loc>https://ocufuse.com/og-image.png</image:loc></image:image>
   </url>
   <url>
+    <loc>https://ocufuse.com/blog/do-i-need-to-wear-my-glasses-all-the-time</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <image:image><image:loc>https://ocufuse.com/bp-do-i-need-to-wear-my-glasses-all-the-time-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/ocu-peek-rest-1x.webp</image:loc></image:image>
+    <image:image><image:loc>https://ocufuse.com/og-blog-do-i-need-to-wear-my-glasses-all-the-time.png</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://ocufuse.com/blog/is-vr-bad-for-your-eyes</loc>
     <lastmod>2026-10-31</lastmod>
     <changefreq>yearly</changefreq>
@@ -904,7 +915,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/how-long-to-adjust-to-new-glasses</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-how-long-to-adjust-to-new-glasses-1280.webp</image:loc></image:image>
@@ -1143,7 +1154,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/how-to-read-your-glasses-prescription</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-how-to-read-your-glasses-prescription-1280.webp</image:loc></image:image>
@@ -1424,7 +1435,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/how-to-put-in-contact-lenses</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-how-to-put-in-contact-lenses-1280.webp</image:loc></image:image>
@@ -1715,7 +1726,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/contact-lens-habits-infection-risk</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-contact-lens-habits-infection-risk-1280.webp</image:loc></image:image>
@@ -1757,7 +1768,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/reading-glasses-after-40-presbyopia</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-reading-glasses-after-40-presbyopia-1280.webp</image:loc></image:image>
@@ -1771,7 +1782,7 @@
   </url>
   <url>
     <loc>https://ocufuse.com/blog/sunglasses-and-uv-choosing-a-pair</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-10-31</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
     <image:image><image:loc>https://ocufuse.com/bp-sunglasses-and-uv-choosing-a-pair-1280.webp</image:loc></image:image>
